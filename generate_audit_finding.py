@@ -4,8 +4,9 @@ import traceback
 import os
 from dotenv import load_dotenv
 
-dotenv_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env')
-load_dotenv(dotenv_path)  # Load variables from .env into the environment
+# dotenv_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env')
+# load_dotenv(dotenv_path)  # Load variables from .env into the environment
+load_dotenv()  # Load variables from .env into the environment
 
 token = os.environ.get("HF_TOKEN")
 TOKEN = "Bearer "+token

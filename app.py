@@ -34,7 +34,7 @@ def get_audit_findings():
         try:
             audit_finding = af.return_audit_findings(req_body)
         except Exception as e:
-            print(traceback.format_exception())
+            return jsonify(traceback.format_exception(e))
         
         # Convert DataFrame to JSON string
         json_data = audit_finding
