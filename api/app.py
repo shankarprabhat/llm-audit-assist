@@ -25,8 +25,8 @@ def hello():
 #     except Exception as e:
 #         return jsonify({'error': str(e)}), 500  # Return error with appropriate status code
 
-@app.route('/api/generate-audit-findings', methods=['POST'])
-def generate_audit_findings():
+@app.route('/api/get-audit-findings', methods=['POST'])
+def get_audit_findings():
     try:
         
         req_body = request.get_json()
