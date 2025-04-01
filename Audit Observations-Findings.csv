@@ -1,0 +1,139 @@
+﻿S.No,Audit Observation by the Auditor (inputs) ,Audit Finding with Impact  should appear (outcome)
+1,"•	Subject ID 1023 received 300 mg of IMP instead of the protocol-specified 150 mg on Day 7. 
+•	Subject ID 2045 received IMP 6 days later than the protocol-defined ±2-day administration window.","Investigator did not conduct the study as per approved protocol version 3 dated Feb 2022. Significant non-compliance was noted during the audit, including overdosing and IMP administration outside of the protocol-defined window.
+Examples: 
+•	Subject ID 1023 received 300 mg of IMP instead of the protocol-specified 150 mg on Day 7. 
+Overdose of IMP by 2x the approved dose. Considering the cytotoxic nature of the drug, this could cause serious toxicity or be fatal. Failure to adhere to dosing instructions is a critical protocol deviation, potentially affecting subject safety and study integrity. 
+•	Subject ID 2045 received IMP 6 days later than the protocol-defined ±2-day administration window. 
+Protocol-defined IMP administration window exceeded by 4 days. This delay could compromise drug efficacy and skew study results. Such a delay also has an adverse impact on subject safety and well-being. 
+
+Such non-compliance with the protocol has severe implications on study participants' safety, well-being, and the overall integrity of the study."
+2,"Failure to obtain informed consent as per 21 CFR Part 50 before administering IMP and conducting study-related tests.                                •	Subject ID 3012 was dosed without signing the ICF. 
+•	Subject ID 3056 signed an outdated version of the ICF (Version 1.0, Jan 2022) instead of the approved Version 2.0, May 2022.","Failure to obtain legally valid informed consent before study participation. Serious deficiencies were observed in the informed consent process, which violate 21 CFR Part 50 requirements. Examples:                                                                                                                        •	Subject ID 3012 was dosed without signing the ICF. 
+The subject did not provide documented consent, raising ethical and regulatory violations. Administering IMP without consent compromises the subject's autonomy and breaches GCP principles. 
+•	Subject ID 3056 signed an outdated ICF (Version 1.0, Jan 2022) instead of the IRB-approved Version 2.0, May 2022. 
+The outdated ICF did not contain updated risk disclosures and new study-related procedures, which could lead to inadequate understanding and potential harm to the subject. 
+
+Non-compliance with informed consent regulations poses serious ethical concerns and could lead to regulatory action, including study suspension."
+3,"Delegation of critical study procedures to unqualified staff.                                                           •	Study Coordinator (non-medical staff) performed physical exams and assessed SAE for Subject ID 4017. 
+•	Unqualified staff administered IMP for Subject ID 4023.","Study responsibilities were inappropriately delegated to unqualified personnel, violating GCP and protocol requirements. The investigator failed to ensure that study-related duties were assigned to personnel with appropriate medical training. Examples: •	Study Coordinator (non-medical staff) performed physical exams and assessed SAE for Subject ID 4017. 
+The lack of medical qualification could lead to misdiagnosis, delayed treatment, or incorrect assessment of adverse events, which may directly impact subject safety. 
+
+•	Unqualified staff administered IMP for Subject ID 4023. 
+The staff member lacked proper training in IMP handling and administration, increasing the risk of dosing errors, contamination, or improper storage conditions, which could affect drug efficacy and subject safety. 
+
+Failure to ensure qualified personnel perform critical study tasks jeopardizes subject safety and study validity. This could lead to regulatory non-compliance, potential legal consequences, and loss of data integrity."
+4,"Failure to report a Serious Adverse Event (SAE) to the IRB/IEC within the required timeline. 
+•	SAE of Grade 3 hepatotoxicity (ALT/AST >5x ULN) for Subject ID 5008 was not reported within 7 calendar days.","Delayed reporting of a Serious Adverse Event (SAE), violating regulatory requirements and ethical obligations. 
+
+•	SAE of Grade 3 hepatotoxicity (ALT/AST >5x ULN) for Subject ID 5008 was not reported within 7 calendar days. 
+The delayed SAE reporting hindered timely risk assessment and potential modification of study safety measures. Regulatory bodies require prompt reporting to protect subject welfare. 
+
+•	Delayed SAE reporting could result in regulatory actions, potential study holds, and compromised subject safety."
+5,"Failure to maintain adequate records for IMP accountability. 
+•	Discrepancy in IMP log: 3 vials dispensed but only 2 vials documented for Subject ID 6012.","IMP accountability records were incomplete or inaccurate, violating regulatory and GCP requirements. 
+•	Discrepancy in IMP log: 3 vials dispensed but only 2 vials documented for Subject ID 6012. 
+This inconsistency raises concerns about drug misuse, loss, or potential protocol deviations. Proper IMP tracking is essential to ensure accurate dosing, prevent drug diversion, and maintain study integrity. 
+Lack of proper IMP accountability can result in regulatory findings, data unreliability, and safety risks to study subjects."
+6,"Transfer of obligations to a contract research organization (CRO) was not described in writing.                  
+• The sponsor transferred trial responsibilities to a CRO, but no formal documentation outlined the specific obligations assumed. 
+• Subject ID 3021’s SAE (serious adverse event) was not reported to the regulatory authorities within the required timeframe due to unclear delegation of responsibilities.","The investigator did not ensure that the transfer of responsibilities was properly documented as required by 21 CFR 312.52(a). Significant non-compliance was noted during the audit, including missing written agreements and undefined obligations.               Examples:                                                                                                                          • The sponsor delegated monitoring responsibilities to CRO X, but no documented agreement was in place defining oversight obligations. 
+• Essential duties such as safety reporting and IMP accountability were transferred but lacked documented acceptance by the CRO, creating compliance risks.                                                                                       • Subject ID 4156 was enrolled despite being ineligible, as eligibility review responsibility was unclear between the sponsor and CRO. Such non-compliance may result in regulatory actions, study delays, and potential safety risks due to unclear delegation of responsibilities."
+7,"Transfer of obligations to a contract research organization did not describe each of the obligations assumed, where not all obligations were assumed. 
+• The agreement between the sponsor and CRO did not specify all transferred responsibilities.
+ • Subject ID 5278 experienced an adverse event that was not followed up appropriately due to unclear reporting responsibilities.","The agreement between the sponsor and the CRO failed to outline each responsibility assumed by the CRO, leading to gaps in regulatory compliance. Some critical obligations remained unassigned, increasing the risk of study mismanagement. Examples: • The CRO assumed responsibility for monitoring but not for investigator training, leading to inconsistent protocol adherence. 
+• Safety reporting obligations were not explicitly transferred, causing delayed submission of adverse event reports.
+• Subject ID 6123 was dosed incorrectly due to lack of oversight, leading to a protocol deviation that went unnoticed for several weeks. Failure to fully document all assumed obligations could result in oversight failures, protocol deviations, and regulatory findings."
+8,"Investigators who were not qualified by training and experience were selected to investigate a drug. 
+• Individuals without proper medical or clinical trial experience were assigned investigator roles. 
+• Subject ID 1894 received an incorrect dose of IMP due to investigator inexperience, leading to a severe adverse reaction.","Study responsibilities were inappropriately assigned to investigators lacking relevant qualifications, violating 21 CFR 312.53(a). The investigator failed to ensure that trial-related duties were assigned to personnel with appropriate medical training.
+Examples: 
+• A principal investigator (PI) with no prior experience in oncology trials was assigned to a cancer study, increasing the risk of misinterpretation of safety data. 
+• A sub-investigator without GCP training administered the IMP incorrectly, leading to protocol deviations. 
+• Subject ID 2746 was not adequately monitored for protocol-defined safety labs, delaying detection of a critical lab abnormality. The lack of proper qualifications could lead to dosing errors, misdiagnosis of adverse events, and compromised data integrity. Such violations could result in regulatory actions and jeopardize study validity."
+9,"Failure to monitor investigations (21 CFR 312.56(a)) 
+•	Subject ID 1203: Missed monitoring visit resulted in an unreported SAE. 
+•	 Subject ID 1345: Investigator deviated from the protocol, altering subject dosing without documented approval.","The sponsor failed to monitor the progress of investigations adequately, leading to protocol deviations and regulatory non-compliance. 
+•	Subject ID 1203: A Serious Adverse Event (SAE) of Grade 3 thrombocytopenia went unreported for 10 days due to the absence of a scheduled monitoring visit. This delayed critical safety interventions. 
+•	 Subject ID 1345: Investigator administered an unapproved dose adjustment, which was only identified months later due to lack of oversight, risking subject safety and data integrity. 
+Failure to monitor can result in compromised data integrity, subject safety risks, and potential regulatory action, including study suspension."
+10,"Failure to notify FDA of termination of investigator (21 CFR 312.56(b)) 
+•	Subject ID 2016: Continued to receive study treatment after investigator termination. 
+•	 Subject ID 2274: Study procedures were performed by the terminated investigator without approval.","The sponsor did not notify the FDA promptly about the termination of a non-compliant investigator, violating regulatory requirements. 
+•	Subject ID 2016: Despite the investigator’s termination, the subject continued to receive unapproved study treatment, leading to potential liability issues and ethical concerns. 
+•	Subject ID 2274: The subject’s last two visits were conducted by a terminated investigator, raising concerns about the validity of data collected during this period.
+ Delayed notification may lead to unauthorized study activities, ethical breaches, regulatory penalties, and loss of credibility with health authorities."
+11,"Investigator non-compliance (21 CFR 312.56(b)) –
+•	Subject ID 3098: Investigator did not document drug administration. –
+•	Subject ID 3127: Subject visits were not conducted as per the protocol, and key safety data were missing.","The investigator failed to comply with the signed agreement and investigational plan, leading to significant regulatory concerns. 
+•	Subject ID 3098: Investigator failed to document multiple drug administrations, making it impossible to track adherence and subject response, raising data integrity concerns. 
+•	Subject ID 3127: Scheduled ECG and laboratory assessments were skipped, preventing detection of potential treatment-related adverse effects. 
+Investigator non-compliance can compromise subject safety, invalidate study results, and lead to regulatory enforcement actions, including site closure."
+12,"Investigator non-compliance with regulations (21 CFR 312.56(b)) 
+•	Subject ID 4105: Unqualified staff performed safety assessments. 
+•	Subject ID 4289: Investigator failed to report protocol deviations to the IRB.","The investigator failed to comply with regulatory requirements, violating Good Clinical Practice (GCP) standards. 
+•	Subject ID 4105: A study coordinator without medical training performed safety assessments, leading to the misclassification of an adverse event, delaying necessary interventions.  
+•	Subject ID 4289: Investigator altered subject follow-up schedules without IRB approval, impacting the assessment of long-term drug effects. 
+Non-compliance with regulatory requirements can lead to subject harm, loss of study validity, and potential disqualification of the investigator from future trials."
+13,"Failure to discontinue drug shipments after investigator termination (21 CFR 312.56(b)) 
+•	Subject ID 5032: Received investigational drug after investigator disqualification. 
+•	Subject ID 5167: IMP vials were dispensed despite the investigator’s removal from the study.","Drug shipments were not halted following the termination of an investigator, leading to unauthorized IMP use. 
+•	Subject ID 5032: Subject continued to receive the investigational product for 2 months post-termination, violating regulatory guidelines and potentially impacting trial outcomes. 
+•	Subject ID 5167: IMP vials were dispensed without proper authorization, leading to discrepancies in drug accountability records.
+ Unauthorized drug use can result in ethical violations, regulatory sanctions, and potential subject harm. Proper inventory control and investigator status monitoring are essential."
+14,"Failure to submit an annual report to the FDA (21 CFR 312.56(c)) 
+•	Subject ID 6021: Enrolled in an extended study phase, but annual progress data were not submitted. 
+•	Subject ID 6150: Safety data were collected but not included in the annual report","The sponsor failed to submit an annual investigation report to the FDA, delaying regulatory oversight.  
+•	Subject ID 6021: The subject continued receiving treatment beyond the study’s expected duration, but the lack of an annual report meant the FDA was unaware of ongoing activities. 
+•	Subject ID 6150: Adverse event trends observed in the last study period were not communicated, potentially delaying necessary safety assessments.
+ Late or missing annual reports may result in study hold, increased scrutiny, and compliance warnings from the FDA."
+15,"Failure to submit an annual report within 60 days of the IND anniversary date (21 CFR 312.56(c)) 
+•	 Subject ID 6235: Ongoing protocol amendments were not captured in the late report. – 
+•	Subject ID 6302: The delay caused missing updates on subject discontinuation rates.","The annual report was not submitted within the required 60-day timeline, affecting regulatory review. 
+•	Subject ID 6235: Recent protocol changes affecting subject monitoring schedules were not submitted in time, leading to an oversight of necessary follow-ups.
+•	 Subject ID 6302: A high dropout rate was observed in one cohort, but the FDA was not informed within the expected timeline.
+ Delays in annual reporting can lead to compliance issues, regulatory delays, and a risk of study suspension."
+16,"Failure to provide all participating investigators with a written IND safety report (21 CFR 312.56(c)) –
+•	Subject ID 6458: Investigator was unaware of new safety findings related to hepatotoxicity. 
+•	Subject ID 6542: Changes in risk profile were not communicated to the research team.","The sponsor failed to distribute the IND safety report to all investigators, compromising subject safety. 
+•	Subject ID 6458: The investigator continued dosing subjects despite emerging evidence of liver toxicity in similar cases, delaying risk mitigation strategies. 
+•	Subject ID 6542: A newly identified risk of QT prolongation was not shared with investigators, leading to missed ECG monitoring requirements. Failure to distribute safety reports can result in adverse event mismanagement, regulatory action, and potential harm to subjects."
+17,"Failure to provide FDA and all participating investigators with an adequate written IND safety report (21 CFR 312.56(c)) 
+•	Subject ID 6673: FDA was not informed of newly identified hypersensitivity reactions. 
+•	Subject ID 6754: Subjects continued receiving the drug despite unreported renal adverse events.","The IND safety report was either incomplete or inadequate, failing to provide critical safety updates. 
+•	Subject ID 6673: Unreported allergic reactions resulted in three subjects experiencing severe hypersensitivity without proper protocol modifications. 
+•	Subject ID 6754: Investigators were not informed of emerging renal safety concerns, delaying necessary monitoring and intervention. Inadequate IND safety reporting can compromise patient safety, lead to regulatory warnings, and impact study credibility."
+18,"Lack of adequate records covering receipt, shipment, and disposition of investigational drug (21 CFR 312.57(a)) 
+•	Subject ID 6901: Investigational drug accountability log was incomplete. 
+•	Subject ID 6982: Unused study drug was not properly documented upon study completion.","The sponsor did not maintain proper drug accountability records, violating Good Clinical Practice (GCP) standards. 
+•	Subject ID 6901: Missing shipment records resulted in discrepancies in drug supply tracking, leading to potential dosing errors.  
+•	Subject ID 6982: Unreturned study drugs were not recorded correctly, raising concerns about potential misuse or unauthorized distribution. 
+Incomplete drug accountability can result in regulatory action, loss of study data integrity, and potential safety risks for subjects."
+19,"Failure to permit FDA to access, review, and copy records related to a clinical investigation (21 CFR 312.58(a))
+•	Sponsor Site: Delayed access to regulatory documents. 
+•	Site ID 208: Missing financial disclosure forms.","The FDA was not granted timely access to essential study records, affecting compliance and regulatory oversight. 
+•	Sponsor Site: The sponsor failed to provide regulatory documents during an FDA audit, delaying the review process. 
+•	 Site ID 208: Financial disclosure forms for investigators were missing, raising concerns about potential conflicts of interest. Failure to provide records upon request can lead to regulatory findings, study delays, and potential suspension of investigational activities."
+20,"Failure to assure the return or other disposition of all unused supplies of an investigational drug from discontinued investigators (21 CFR 312.59) 
+•	 Investigator Dr. A: Unused drug stock not returned post-study. 
+•	 Investigator Dr. B: No destruction records for expired medication.","Unused investigational drugs were not properly accounted for, leading to compliance risks. 
+•	 Investigator Dr. A: A principal investigator retained investigational drug supplies even after study completion, violating drug accountability protocols.  
+•	Investigator Dr. B: There were no records of proper destruction for expired study drugs, increasing the risk of unauthorized use. Failure to manage unused drug supplies can lead to regulatory action, potential drug misuse, and integrity issues in clinical trials."
+21,"Failure to maintain adequate written records of the disposition of an investigational drug (21 CFR 312.59) 
+•	 Subject ID 1023: No record of drug return after withdrawal. 
+•	Subject ID 1098: Discrepancy in the amount of dispensed vs. returned drug.","The site did not maintain complete documentation of investigational drug use and returns, leading to compliance concerns. 
+•	Subject ID 1023: The subject withdrew from the study, but the return of the investigational drug was not documented. 
+•	Subject ID 1098: The drug accountability log showed more medication dispensed than returned, leading to missing inventory issues. 
+Poor drug disposition records can lead to regulatory violations, data integrity concerns, and potential FDA warnings."
+22,"Investigational drug package missing required cautionary labeling (21 CFR 312.6(a)) 
+•	Lot No. 305A: Study drug shipped without ""Caution"" labeling. 
+•	 Lot No. 310B: Label missing regulatory warning statement.","The investigational drug did not meet labeling requirements, creating compliance and patient safety risks. 
+•	Lot No. 305A: An investigational drug was distributed without the required label stating ""Caution: New Drug - Limited by Federal law to investigational use."" 
+•	Lot No. 310B: Study drug labels did not include a warning about restricted investigational use, increasing the risk of unintended distribution.
+ Inadequate labeling can result in FDA noncompliance, potential patient safety risks, and product recalls."
+23,"A study drug was administered to subjects not under the investigator's personal supervision (21 CFR 312.61) 
+•	Subject ID 2015: Drug administered by unauthorized personnel. – 
+•	Subject ID 2091: Dispensing records missing investigator verification.","Investigational drugs were administered without proper supervision, violating clinical trial protocols. 
+•	Subject ID 2015: The study drug was given to a subject by an unapproved staff member who was not listed as a sub-investigator. 
+•	Subject ID 2091: There were no records showing that the investigator reviewed and approved drug administration, leading to compliance gaps.
+ Lack of supervision in drug administration may compromise patient safety, result in regulatory penalties, and impact trial credibility."
