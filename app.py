@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS  # Import Flask-CORS
-from generate_audit_finding import return_audit_findings
+import generate_audit_finding as af
 import traceback
 
 app = Flask(__name__)
@@ -32,7 +32,7 @@ def get_audit_findings():
         req_body = request.get_json()
         
         try:
-            audit_finding = return_audit_findings(req_body)
+            audit_finding = af.return_audit_findings(req_body)
         except Exception as e:
             print(traceback.format_exception())
         
