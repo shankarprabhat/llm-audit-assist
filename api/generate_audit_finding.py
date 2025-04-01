@@ -2,6 +2,9 @@ import requests
 import pandas as pd
 import traceback
 import os
+from dotenv import load_dotenv
+
+load_dotenv()  # Load variables from .env into the environment
 
 token = os.environ.get("HF_TOKEN")
 TOKEN = "Bearer "+token
