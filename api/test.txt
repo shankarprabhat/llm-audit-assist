@@ -1,0 +1,1 @@
+"Subject ID 1023 received 100 mg of IMP instead of the protocol-specified 150 mg on Day 2. Subject ID 45 received IMP 6 days later than the protocol-defined ±2-day administration window."
