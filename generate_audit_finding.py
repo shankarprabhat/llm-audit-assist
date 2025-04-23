@@ -4,28 +4,20 @@ import traceback
 import os
 from dotenv import load_dotenv
 
-# dotenv_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env')
-# load_dotenv(dotenv_path)  # Load variables from .env into the environment
 load_dotenv()  # Load variables from .env into the environment
 
 token = os.environ.get("HF_TOKEN")
-TOKEN = "Bearer "+token
-
-# API_URL = 'https://api-inference.huggingface.co/models/deepset/roberta-base-squad2'
-# API_URL = "https://api-inference.huggingface.co/models/google/flan-ul2" # or flan-t5-large
-
-API_URL = "https://api-inference.huggingface.co/models/google/flan-t5-large" # or flan-t5-large
-# API_URL = "https://api-inference.huggingface.co/models/google/flan-t5-base" # or flan-t5-large
-# API_URL = "https://api-inference.huggingface.co/models/google/flan-t5-small" # or flan-t5-large
-
+TOKEN = "Bearer " + token
 headers = {"Authorization": TOKEN}
+base_llm_model_URL = "https://api-inference.huggingface.co/models/google/flan-t5-large"
 
 def query(payload):
-    response = requests.post(API_URL, headers=headers, json=payload)
+    response = requests.post(base_llm_model_URL, headers=headers, json=payload)
     return response.json()
 
 # 1. Load your CSV data (replace 'your_data.csv' with your file path)
-def return_audit_findings(req_body):
+def prepare_data():
+    
     df = pd.read_csv('Audit Observations-Findings.csv')
     df = df.dropna()
     
@@ -44,27 +36,30 @@ def return_audit_findings(req_body):
     example_string = ""
     for example in examples:
         example_string += f"Observation: {example['observation']}\nFinding: {example['finding']}\n\n"
-    
-    # Your question
-    try:
-        if req_body['auditObservations'] is None:
-            observe = "Subject ID 1023 received 100 mg of IMP instead of the protocol-specified 150 mg on Day 2. \
-             Subject ID 45 received IMP 6 days later than the protocol-defined ±2-day administration window."
-        else:
-            observe = req_body['auditObservations']
-    except:
-        print(traceback.format_exception())
-         
-    question = f"Observation: {observe}\n\nProvide me the audit findings?"
+
+    return example_string
+
+def return_audit_findings(input_observation,example_string):
+
+    # Your question         
+    question = f"Observation: {input_observation}\n\nProvide me the audit findings?"
     
     # Create the prompt
-    prompt = f"You are an Auditor for Clinical Trials and refer to ICH GCP as well as FRS document. \
-     I am giving few observations and their corresponding findings. Based on it, for my new observations,provide findings. :\n\n{example_string}\n{question}"
+    prompt = f"I am giving few observations and their corresponding findings. Based on it,\
+     for my new observations,provide findings. :\n\n{example_string}\n{question}"
     
     # Send the prompt to the model
     output = query({
-        "inputs": prompt,
-    })
+        "inputs": prompt
+    })    
     
-    print(output)
     return output
+
+if __name__ == "__main__":
+    example_string = prepare_data()
+
+    input_observation = "Subject ID 1023 received 100 mg of IMP instead of the protocol-specified 150 mg on Day 2. \
+     Subject ID 45 received IMP 6 days later than the protocol-defined ±2-day administration window."
+    
+    output_observation = return_audit_findings(input_observation,example_string)
+    print(output_observation)

@@ -10,29 +10,16 @@ CORS(app)  # Enable CORS for all routes
 def hello():
     return "Hello, World!"
 
-# @app.route('/api/classify-comment', methods=['POST'])
-# def classify_comments():
-#     try:
-#         req_body = request.get_json()
-        
-#         # final_df = ac.compute_compliance()
-        
-#         # Convert DataFrame to JSON string
-#         json_data = "hello world"
-
-#         return jsonify(json_data)
-
-#     except Exception as e:
-#         return jsonify({'error': str(e)}), 500  # Return error with appropriate status code
-
 @app.route('/api/get-audit-findings', methods=['POST'])
 def get_audit_findings():
     try:
         
         req_body = request.get_json()
-        
+        input_observation = req_body.get('auditObservation')
+        example_string = af.prepare_data()  # Load the example data
+
         try:
-            audit_finding = af.return_audit_findings(req_body)
+            audit_finding = af.return_audit_findings(input_observation, example_string)
         except Exception as e:
             return jsonify(traceback.format_exception(e))
         

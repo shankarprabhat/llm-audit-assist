@@ -1,0 +1,2162 @@
+1Efficacy and Safety of ACC007 in Combination with 3TC+TDF for 
+HIV/AIDS  
+Phase III clinical trial protocol  
+ 
+Clinical Approval Number 2017L01340 
+Program Number ADYY- ACC007-301 
+Duration of Clinical Trials September 2018 ～September 2021 
+Sponsor Jiangsu Aidea Pharmaceutical Co., Ltd. 
+Project Leader Shen Xiaoning 
+Phone 025-85578729 
+Group Leader Agency Beijing Youan Hospital, Capital Medical University 
+Principal Investigator Wu Hao 
+Phone 010-83997962 
+Participating Agencies Beijing Ditan Hospital, Capital Medical University; 
+Guangzhou Eighth People’s Hospital, Guangzhou Medical 
+University; Infectious Disease Hospital of Henan Province; 
+the First Hospital of Changsha; Chongqing Public Health 
+Medical Center; The Second Hospital of Nanjing 
+Pharmacogenetic Analysis 
+and Testing Agency Chinese Academy of Sciences Shanghai Institute of 
+Materia Medica  
+Project Leader Chen Xiaoyan 
+Phone 021-50800738 
+Data Management Agency Beijing Zhiji Pharmaceutical Information Consulting 
+Co., Ltd. 
+Project Leader Zhang Ting 
+Phone 010-58648971 
+Statistical Analysis Agency  Beijing Bozhiyin Technology Co., Ltd. 
+Project Leader Zheng Qingshan 
+Phone 010-67587407 
+Clinical Trial Monitoring 
+Agency Beijing Co-CRO Medical Development Co., Ltd.  
+Project Leader Peng Haiyan 
+Phone 010-85116590 
+Confidentiality statement: The information contained in this document, particularly unpublished information, is the property of Jiangsu Aidea 
+Pharmaceutical Co., Ltd. and is hereby provided to you as a study-related person in the form of a confidential document for consideration by you and the 
+relevant review committee or independent ethics committee. All information is intended for your authorized use only in connection with the conduct of 
+clinical studies concerning the experimental drug described in this protocol. Except to the extent necessary to obtain informed consent from the subject, no 
+information may be disclosed to others without the written permission of Jiangsu Aidea Pharmaceutical Co., Ltd.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+1 Program Summary 
+Research Title Phase III clinical study of the efficacy and safety of ACC007 in combination with 3TC+TDF in the treatment of 
+HIV/AIDS 
+Clinical Research 
+Agency Group leader: Beijing Youan Hospital, Capital Medical University 
+Participating agencies: Beijing Ditan Hospital, Capital Medical University 
+    Guangzhou Eighth People’s Hospital, Guangzhou Medical University 
+    Infectious Disease Hospital of Henan Province 
+    The First Hospital of Changsha 
+    Chongqing Public Health Medical Center 
+    The Second Hospital of Nanjing  
+Objectives  of the 
+Study Primary Objective 
+ Demonstrate that the proportion of subjects with virological response (VL < 50 copies/mL) in the ACC007 
+group is not inferior to the EFV control group at 48 weeks of treatment for HIV/AIDS without ARV, with a 
+non-inferiority threshold of 10% 
+Secondary Objective 
+ To evaluate and compare antiviral activity (HIV-RNA levels) between the ACC007 and EFV groups at 48 weeks  
+ To evaluate and compare the safety of the ACC007 and EFV groups at 48 weeks 
+ To evaluate and compare the changes in immune function (CD4 cell counts) between the ACC007 and EFV 
+groups at 48 weeks 
+ To evaluate the population pharmacokinetic (popPK) characteristics of ACC007 and PK/PD (PK/HIV RNA vs. 
+PK/AE) relationship  
+ To evaluate the safety at 24 weeks of treatment  
+ To evaluate the proportion of subjects with virological response (VL < 50 copies/mL at 96 weeks of treatment  
+ To evaluate antiviral activity (HIV RNA levels) at 96 weeks of treatment  
+ To evaluate the safety at 96 weeks of treatment  
+ To evaluate the changes in immune function at 96 weeks of treatment (CD4 cell counts)  
+Study Design Multicenter, randomized, double-blind, double-simulation, positive parallel-controlled, non-inferiority phase III 
+clinical trial 
+Subgroups and 
+Sample Size* Group Experimental drugs Sample size  
+(Number) Treatment 
+period 
+(Blind 
+state/week) Extension 
+period** 
+(Open/week) 
+Test group ACC007 150 mg + EFV placebo + 
+(3TC 300mg+TDF 300mg)  315 48 
+48 
+Control group  EFV 600mg +ACC007 placebo + 
+(3TC 300mg+TDF 300mg)  315 48 
+*Non-inferiority design: with an efficiency of 80%, α=0.025, β=0.2, δ=0.10, ratio=1:1, and the estimated shedding rate=20%. 
+**At the end of the 48-week study up to week 96, all subjects are no longer taking the placebo and may choose to enter the extension study, 
+continue treatment with ACC007+3TC+ TDF or EFV+3TC+ TDF, or be coordinated for transfer to the National Free Treatment System, 
+depending on the subject's preference.  
+ 
+ 
+Inclusion and 
+Exclusion Criteria  Selection Criteria 
+(1)  18-65 years old 
+(2) Diagnosed with HIV-1 infection, HIV RNA ≥ 1000 copies/mL within 30 days before enrollment and  
+subject is judged to be suitable for ART regimen by the investigator 
+(3) Never received ARV treatment or  therapeutic HIV- 1vaccine and agree not to initiate ART treatment
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+2 before the baseline visit  
+(4) Understand and comply with the requirements of the study protocol and voluntarily sign a written 
+informed consent form 
+Exclusion Criteria 
+(1) Status of acute HIV-1 infection or currently suffering from AIDS related complex 
+(2) History of drug abuse, recent history of alcohol or drug dependence 
+(3) Any condition considered by the investigator that may compromise the safety of the subject and affect  
+compliance with the study protocol  
+(4) Participated in a clinical trial with an investigat ional compound/therapeutic device  within 30 days p rior 
+to enrollment in this study 
+(5) Used systemic immunos uppressive therapy or immunomodulators within 30 da ys prior to treatment in 
+this study, or could not avoid to use during the clinical trial 
+(6)  Hepatitis C or hepatitis B with glutathione > 4 times ULN 
+(7) [1] Creatinine ≥ ULN and a glomerular filtration rate (GFR) ≤ 60 (mL/minute/1.73 m2 ) as derived from 
+the CKD-EPI creatinine formula (GFR = a*(serum creatinine)/b)^c*(0.993)^age. The a values are differ according to 
+gender and ethnicity: blacks: females = 166, males = 163; whites and other ethnicities: females = 144, males = 141. 
+The b values differ according to sex: females = 0.7; males = 0.9. The c values differ according to sex and serum 
+creatinine values: females: c = -0.329 for serum creatinine ≤ 0.7 mg/dL, c = - 1.209 for serum creatinine > 0.7 mg/dL; 
+males: c = -0.411 for serum creatinine ≤ 0.7 mg/dL, c = -0.411 for serum creatinine > 0.7 mg/dL. (c=- 1.209 for serum 
+creatinine > 0.7 mg/dL.) 
+(8) Grade 3 or 4 presentation according to the DAIDS grading scale[2]  
+(9) Active pulmonary tuberculosis and is on treatment a t the time of screening (subjects who develop activ e 
+pulmonary tuberculosis  during the trial will be withdrawn from treatment in order to start anti- tuberculosis  
+therapy) 
+(10) Received  antifungals, corticost eroids, and sulfonamides and antituberculosis drugs  within 14 days prior 
+to study screening or is taking these drug. 
+(11) A history of allergy or hypersensitivity to any component or excipient of the investigational drug 
+(12) Women who are pregnant or breastfeeding; women of childbearing potential who are not using 
+contraception (e.g., diaphragm; condom; IUD, etc.; partner vasectomy) deemed effective by the investigator; female 
+subjects who are unwilling to continue using an investigator-approved form of contraceptio n from screening until 6 
+months after the last dose of trial drug. Male subj ects with active heterosexual sex without vasectomy  who are not 
+using birth control, or who do not wish to continue using contraception during the trial until at least within 30 da ys 
+after the end of the trial. 
+Study Procedures  z Visits: Screening, baseline, 4w, 12w, 24w, 36w, 48w , 72w, 96w visits respectively, during which the st udy 
+components such as consultation, physical examinati on, specimen collection and/or drug retrieval and 
+distribution required for efficacy and safety assessment will be completed according to the protocol 
+requirements 
+z Population pharmacokinetic study: 1 PK blood sample will be collected on an empty stomach at the 12w, 24w, 
+36w and 48w visits and combined with the pre-dense sampling data for population pharmacokinetic analysis. 
+z PK-collected blood samples will be tested for both blood drug concentrations and HIV RNA levels 
+Experimental Drugs  z ACC007: 75 mg/tablet, 2 tablets each time, once-daily (at night before bedtime) 
+z ACC007 placebo: 2 tablets each time, once-daily (at night before bedtime) 
+z Efavirenz: 600mg/tablet, 1 tablet each time, once-daily (take at night before bedtime) 
+z Efavirenz placebo: 1 tablet each time, once-daily (at night before bedtime)
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+3 z Lamivudine: 300 mg/tablet, 1 tablet each time, once-daily (at night before bedtime) 
+z Tenofovir: 300 mg/tablet, 1 tablet each time, once-daily (at night before bedtime)  
+If you are found to have missed a dose of medicatio n, you are required to take one dose before 12:00 n oon the 
+following day; no dose will be taken after 12:00 noon. 
+Efficacy Assessment  Primary endpoint indicators. 
+z Percentage of subjects with HIV RNA <50 copies/mL at 48 weeks of treatment (RT-PCR Abbott). Evaluation 
+using Snapshot Approach method[3] 
+Secondary endpoint indicators 
+z Changes in HIV RNA log values at 48 and 96 weeks of treatment 
+z Percentage of HIV RNA levels ≤400 copies/mL at 48 and 96 weeks of treatment 
+z Percentage of subjects with HIV RNA levels <50 copies/mL at 96 weeks of treatment 
+z Changes in CD4 cell counts at 48 and 96 weeks of treatment 
+Safety Assessment  Clinical Safety Assessment 
+z Subjects’ spontaneous reports or direct physician observation or non- induced questioning of subjects about 
+adverse events will be collected during the clinical trial and evaluated at 24, 48 and 96 weeks of treatment. 
+Laboratory Safety Assessment  
+z The changes of routine blood test, routine urine te st, blood biochemistry and electrocardiogram at 24,  48 and 96 
+weeks will be compared, and urine pregnancy test (only for women of childbearing age), abdominal ultras ound 
+and chest X-ray will be performed during the clinical trial to evaluate their safety. 
+PK/PD Assessment  Blood sample specimens of ACC007 will be obtained by sparse sampling, and the relationship b etween blood 
+concentration and HIV RNA level and AE incidence will be measured, and the relationship between PK/HIV RNA 
+and PK/AE will be analyzed using modeling.(  Preparing for independent publication)  
+Medication 
+Adherence 
+Assessment  Medication adherence assessment (%) = Actual number of medications / Theoretical number  of medications × 
+100% 
+Adherence assessment: ACC007 or efavirenz with (3TC+TDF) calculated separately. This study required 
+medication adherence of ≥90% and ≤110%. 
+Statistical Analysis  z SAS 9.4 software will be used for analysis. Non-inferiority tests will be expressed using two- sided 95% 
+confidence intervals for the differences between groups 
+z The general statistical tests are two-sided tests, and a p- value less than or equal to 0.05 will be considered  
+statistically significant
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+4 Abbreviations 
+Symbols Definition Symbols Definition 
+3TC Lamivudine IC 50 Semi-inhibitory concentration 
+ABC Abacavir IEC Ethics Committee 
+AE Adverse Events KET Urine ketone bodies 
+ALB Albumin LDH Lactate dehydrogenase 
+ALP Alkaline phosphatase LEU Urine leukocytes 
+ALT Alanine aminotransferase MCH Mean red blood cell hemoglobin 
+content 
+APTT Partial thromboplastin time MCHC Mean red blood cell hemoglobin 
+concentration 
+ART Anti-retroviral therapy MCV Mean erythrocyte product 
+AST Aspartate aminotransferase NOEL Maximum no effect dose 
+AUC(0-∞)  Area under the blood drug 
+concentration-time curve from zero to 
+infinity time NOAEL Visible adverse effect dose 
+AUC(0-t)  Area under the blood concentration-time 
+curve from zero to the last measurable 
+concentration NVP Nevirapine 
+AZT Zidovudine PLT Platelet count 
+BIL Urine bilirubin PopPK(PPK) Population pharmacokinetics 
+BUN Urea nitrogen PPS Compliant with the program set  
+BLD (urinary) red blood cells PRO Urine protein 
+CHOL Cholesterol RBC Red blood cell count 
+CK Creatine kinase RAL Raltegravir 
+Cmax Drug peak concentration SAE Serious Adverse Events  
+CREA(CR) Blood creatinine SG Urine specific gravity 
+CRF Case report form SS Secure data sets 
+Ctrough Valley concentration T 1/2  Half-life 
+DBIL Direct bilirubin TBIL Total bilirubin 
+ECG Electrocardiogram TDF Tenofovir 
+EDC Electronic Data Management TG Triglyceride 
+FTC Emtricitabine T max Peak time 
+GCP Quality management standard for drug 
+clinical trials TP Total protein 
+γ-GT Glutamyl aminotransferase UBG Urobilinogen 
+GLU Blood/urine glucose UPh Urine Ph 
+HBV-M Hepatitis B two-for-half UREA  Urea 
+HCT Erythrocyte specific gravity UBG Urobilinogen 
+HGB Hemoglobin WBC Leukocyte count 
+Anti-HCV Hepatitis C antibody
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+5 Flow Chart 
+Research Phase Screening 
+Period Baseline 
+Period Treatment Period (blind state period) Extension Period 
+(open period) 
+Visits (times) 1 2 3 4 5 6 7 8 9 
+Time period/point -30d-1d -7d1d 4w±3d 12w±4d 24w±6d 36w±6d 48w±6d 72w±12d  96w±12d  
+Sign the Informed Consent 
+Form x         
+Inclusion/Exclusion Criteria  x x        
+Demographic Information  x         
+Medical History x         
+HIV Confirmation x         
+Medication Adherence 
+Education and Assessment  x x x x x x x x x 
+Random  x        
+Physical Examination x x x x x x x x x 
+Vital Signs Measurement x x x x x x x x x 
+Routine Blood Test x6 x7 x x x x x x x 
+Routine Urine Test x6 x7 x x x x x x x 
+Urine Pregnancy Test 
+(women of childbearing age)   x  x x x x x x 
+Blood Biochemistry1 x6 x7 x x x x x x x 
+CD4 Cell Count x6 x x x x x x x x 
+HIV RNA2 (tested at each 
+center) x6   x x     
+HIV RNA3 (specimen 
+collection)  x x x x  x x x x 
+Collect Plasma for Drug 
+Resistance Test4  x   x  x  x 
+Collect Plasma for PPK5    x x x x   
+Hepatitis B Screen x6         
+Hepatitis C Antibody x6         
+RPR Titer x6         
+Urine Drug Test Screening  x         
+12-lead Electrocardiogram  x6 x7 x x x x x x x 
+Ultrasound of the Abdomen  x6      x  x 
+Chest X-Ray x6      x  x 
+Combining Medication 
+Records x x x x x x x x x 
+Adverse Event Record   x x x x x x x 
+Drug Distribution  x x x x x x x  
+Drug Recall   x x x x x x x 
+Test Summary       x  x 
+1. Tests include ALT, AST, GGT, ALP, LDH, CK, AMY, TBIL, DBIL, GLU, UA, BUN, CREA, CHOL, TG, TP, ALB. 
+2. HIV RNA primary screening (inclusion criteria), 12 weeks, and 24 weeks (determination of virological failure) were performed once at each study center. 
+3. For subjects who met the enrollment criteria, plasma specimens were retained by each center at baseline and at each subsequent visit for HIV RNA, and 
+sent to the central laboratory for uniform testing. 
+4. Retain the specimens and send them to the central laboratory for uniform testing if necessary. 
+5. PPK specimens were collected at 12, 24, 36 and 48 weeks visits on an empty stomach and the time of PPK collection was recorded, along with the time of 
+last meal and last dose. PPK blood samples were to be tested uniformly in the central laboratory (only blood samples from the treatment group were tested). 
+6. Subjects' test results within 30 days prior to screening at our study center can be used directly (including routine blood, urine, blood biochemistry, CD4 
+cell count, HIV RNA, hepatitis B markers, hepatitis C antibodies, RPR titer, 12-lead ECG, abdominal ultrasound, and chest X-ray). 
+7. Baseline ≤7 days from the screening period may not be repeated (including routine blood, urine, blood biochemistry, 12-lead ECG.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+6 Table of Contents 
+PROGRAM SUMMARY ................................................................................................................................................. 1  
+ABBREVIATIONS ........................................................................................................................................................... 4  
+FLOW CHART ................................................................................................................................................................ 5  
+LIST OF TABLES ............................................................................................................................................................. 9  
+LIST OF FIGURES ........................................................................................................................................................... 9  
+1 BACKGROUND ......................................................................................................................................................... 10  
+1.1 ACC007  PHARMACY RESEARCH ...................................................................................................................................... 11  
+1.2 ACC007  PHARMACODYNAMIC STUDIES ............................................................................................................................ 12  
+1.3 ACC007  PHARMACOLOGY STUDIES .................................................................................................................................. 13  
+1.4 ACC007  TOXICOLOGY STUDIES ........................................................................................................................................ 13  
+1.5 ACC007  NON-CLINICAL PHARMACOKINETIC STUDIES .......................................................................................................... 14  
+1.6 ACC007  COMPLETED CLINICAL STUDIES ........................................................................................................................... 14  
+1.7 ACC007,  EFV, 3TC AND TDF CLINICAL STUDIES AND LITERATURE REVIEW .............................................................................. 18  
+2 OBJECTIVES OF THE STUDY ...................................................................................................................................... 23  
+3 STUDY DESIGN AND METHODOLOGY....................................................................................................................... 24  
+3.1 OVERALL DESIGN........................................................................................................................................................... 24  
+3.2 SAMPLE SIZE CALCULATION  ............................................................................................................................................. 24  
+3.3 DOSE SELECTION ........................................................................................................................................................... 24  
+3.4 STUDY GROUPS ............................................................................................................................................................. 25  
+4 SUBJECT SELECTION ................................................................................................................................................. 25  
+4.1 INCLUSION AND EXCLUSION CRITERIA ................................................................................................................................ 25  
+4.2 CRITERIA FOR INTERRUPTION OF TREATMENT ...................................................................................................................... 26  
+4.3 CRITERIA FOR WITHDRAWAL FROM THE TRIAL ..................................................................................................................... 27
+
+4.3 CRITERIA FOR WITHDRAWAL FROM THE TRIAL ..................................................................................................................... 27  
+4.4 CRITERIA FOR DISCONTINUING THE TRIAL ........................................................................................................................... 27
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+7 5 TREATMENT ALLOCATION AND BLINDING ............................................................................................................... 28  
+5.1 EXPERIMENTAL DRUGS ................................................................................................................................................... 28  
+5.2 DRUG LABELING ............................................................................................................................................................ 28  
+5.3 DRUG STORAGE ............................................................................................................................................................ 29  
+5.4 DRUG ALLOCATION AND RANDOMIZATION .......................................................................................................................... 29  
+5.5 SUBJECT CODE .............................................................................................................................................................. 29  
+5.6 CONCOMITANT MEDICATION ........................................................................................................................................... 30  
+6 STUDY CONTENTS AND PROCEDURES ...................................................................................................................... 30  
+6.1 SPECIFIC CONTENT FOR EACH VISIT TIME ........................................................................................................................... 30  
+6.2 EFFICACY AND SAFETY ASSESSMENT INDICATORS.................................................................................................................. 35  
+6.3 EFFICACY INDICATORS AND QUALITY CONTROL OF CENTRAL LABORATORY TESTS ........................................................................ 37  
+6.4 EFFICACY ASSESSMENT  ................................................................................................................................................... 38  
+6.5 SAFETY ASSESSMENT  ...................................................................................................................................................... 38  
+6.6 PK/PD (PK/HIV  RNA, PK/AE) ASSESSMENT  .................................................................................................................... 38  
+6.7 MEDICATION ADHERENCE ASSESSMENT  ............................................................................................................................. 39  
+7 DRUG SAFETY MANAGEMENT ................................................................................................................................. 39  
+7.1 DEVELOP A DRUG SAFETY MANAGEMENT PLAN .................................................................................................................. 39  
+7.2 ADVERSE EVENTS .......................................................................................................................................................... 39  
+7.3 SERIOUS ADVERSE EVENTS .............................................................................................................................................. 42  
+7.4 SAE REPORTS CONTACT INFORMATION  .............................................................................................................................. 44  
+7.5 CONSISTENCY VERIFICATION OF SERIOUS ADVERSE EVENTS .................................................................................................... 45  
+7.6 PREGNANCY INCIDENT REPORTING .................................................................................................................................... 45  
+8 QUALITY CONTROL .................................................................................................................................................. 45
+
+8 QUALITY CONTROL .................................................................................................................................................. 45  
+8.1 MONITORING , AUDIT AND INSPECTION  .............................................................................................................................. 45  
+8.2 IDENTIFICATION OF SUBJECTS ........................................................................................................................................... 46  
+8.3 RETENTION OF ORIGINAL RECORDS ................................................................................................................................... 46  
+8.4 INTERNAL QUALITY CONTROL AND QUALITY ASSURANCE ....................................................................................................... 46
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+8 9 DATA MANAGEMENT ............................................................................................................................................... 46  
+9.1 DEVELOP A DATA MANAGEMENT PLAN .............................................................................................................................. 46  
+9.2 ECRF DESIGN ............................................................................................................................................................... 47  
+9.3 DATA ENTRY ................................................................................................................................................................. 47  
+9.4 USER MANAGEMENT  ..................................................................................................................................................... 47  
+9.5 DATA VERIFICATION  ....................................................................................................................................................... 47  
+9.6 ELECTRONIC SIGNATURE ................................................................................................................................................. 48  
+9.7 DATABASE LOCKING ....................................................................................................................................................... 48  
+9.8 DATA MANAGEMENT FILE RETENTION AND DATA TRANSFER .................................................................................................. 48  
+10 STATISTICAL ANALYSIS............................................................................................................................................ 48  
+10.1 HYPOTHESIS TESTING ................................................................................................................................................... 48  
+10.2 ANALYSIS SETS ............................................................................................................................................................ 48  
+10.3 STATISTICAL ANALYSIS METHODS .................................................................................................................................... 48  
+10.4 STATISTICAL SOFTWARE AND GENERAL REQUIREMENTS  ....................................................................................................... 51  
+11 DATA RETENTION ................................................................................................................................................... 52  
+11.1 ELECTRONIC DATA RECORDING ....................................................................................................................................... 52  
+11.2 FILE PRESERVATION  ...................................................................................................................................................... 52  
+12 TRIAL SUMMARY ................................................................................................................................................... 52  
+13 DSMB RESPONSIBILITIES AND PROGRAM MODIFICATIONS ................................................................................... 52  
+13.1 DSMB RESPONSIBILITIES  .............................................................................................................................................. 52  
+13.2 PROGRAM MODIFICATION ............................................................................................................................................. 53  
+14 CONTACT ADDRESS AND PHONE NUMBER OF THE SPONSOR AND EACH STUDY CENTER ...................................... 53  
+15 REFERENCES .......................................................................................................................................................... 55
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+9 List of Tables 
+Table 1 Medication for Study Groups ................................................................................................................... 25  
+Table 2 Pharmacogenetic Specimen Collection Schedule .................................................................................... 36  
+Table 3 SAE Reporting Contact Information Form ............................................................................................. 44  
+ 
+List of Figures 
+Figure 1 Study Flow of ACC007 Single Dose Tolerability and Pharmacokinetics ............................................ 15  
+Figure 2 Study Flow for the Effect of Eating on ACC007 .................................................................................... 16  
+Figure 3 Study Flow of Continuous Dose Escalation Tests of ACC007 .............................................................. 17  
+Figure 4 Schematic Diagram of Drug Interaction Research Methods for ACC007 and 3TC + TDF: (A) in 
+Group A; (B) in Group B ........................................................................................................................................ 18
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+Text of the Clinical Study Protocol  
+1 Background 
+The morbidity and mortality of HIV-1-infected patients were significantly reduced after the application of highly 
+active antiretroviral therapy to control and prevent HIV replication[1]. Antiretroviral drugs act on three intra-viral 
+enzymes (reverse transcriptase, protease, and integrase), viral envelope glycoproteins, host cell proteins, and CCR5 
+chemokine co-receptors. According to their mechanism of action, there are six different anti-HIV drugs: nucleoside 
+reverse transcriptase inhibitors (NRTI), protease inhibitors (PI), non-nucleoside reverse transcriptase inhibitors 
+(NNRTI), fusion inhibitors (FI), integrase strand transfer inhibitors (INSTI) and co-receptor inhibitors (CI). The 
+appropriate combination of these drugs can effectively suppress HIV infection. The principle of combination drug use 
+is dependent on the therapeutic efficacy of the combined regimen, the efficacy of the drug used by other patients, 
+potential adverse drug reactions, and patient’s adherence to the given regimens[2] . 
+The HIV Pol gene encodes three enzymes (with four enzymatic activities): protease, reverse transcriptase (with 
+embedded RNAseH), and integrase. HIV replication requires these four enzymes, including protease, reverse 
+transcriptase, RNAseH, and integrase. Among them, the reverse transcriptase is an asymmetric heterodimer containing 
+the p66 and p51 subunits, both of which are encoded by the same gene sequence in the viral genome, and p51 subunit is 
+obtained by cleaving the p66 subunit by viral protease. Both NRTI and NNRTI can inhibit reverse transcriptase. 
+Although the chemical composition of the NNRTI class is different, all NNRTIs react with the hydrophobic region 
+near the active center of reverse transcriptase to alter the structure of reverse transcriptase and thereby inhibit its activity. 
+NNRTI in combination with nucleoside/nucleotide reverse transcriptase inhibitors (N(t)RTIs) constitute a highly 
+effective therapy for treatment naïve individuals living with HIV and have emerged as a treatment option. 
+Efavirenz (EFV) and nevirapine (NVP) are the two representative varieties of the NNRTI class, with efavirenz 
+being the most prescribed drug. Currently, the most widely used first-line regimen for treatment-naïve patients in China 
+is two NRTIs (TDF or AZT + 3TC) plus one NNRTI (EFV or NVP). Among the NNRTI drugs, NVP has a serious 
+impact on medication adherence due to adverse effects such as rash and liver toxicity, and its clinical use is also limited 
+by the need for introductory monitoring. EFV not only has a low genetic barrier that prone to mutation and drug 
+resistance, but also has adverse effects on the central nervous system, and poor drug adherence is the main reason for 
+the emergence of drug resistance mutations. In addition, EFV is teratogenic and contraindicated for certain populations. 
+With the increasing use of EFV in first-line treatment regimens, many newly infected patients have been detected with
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+EFV-resistance, and these patients cannot be treated with the regimens containing EFV. Therefore, there is a significant 
+clinical need to develop new NNRTI drugs that can effectively suppress EFV-resistant strains and have lower adverse 
+effects, which can not only fight against major NNRTI-resistance mutations, but also improve safety and medication 
+adherence. 
+ACC007 is a novel NNRTI for the treatment of HIV. The compound was originally invented and patented by the 
+Korea Institute of Chemical Technology and the preclinical study was completed by Gilead (study code GS9441). In 
+2011, Kainos Medicine in Korea acquired the patent license and development rights of the compound and has 
+completed a phase I tolerability and pharmacokinetic clinical study in healthy volunteers (KAINOS study code 
+KM-023). In 2014, Jiangsu Adi Pharmaceutical Co. obtained the development rights of this variety and patent in China 
+from Kainos Medicine (China Patent Authorization Announcement No. CN 101784532 B), and named as ACC007. 
+ACC007 is a new NNRTI with favorable safety and pharmacological properties found in preclinical studies, requiring 
+only once-daily administration. ACC007 is less likely to have efavirenz-like CNS symptoms and has activity against 
+the major efavirenz resistance mutation (K103N). Although its antiviral activity against laboratory-cultured strains and 
+clinical isolates of HIV-1 is low, it shows activity in HIV-1 resistant to NRTI, PI, and INSTI, and combined with these 
+types of drugs can increase the antiviral activity of ACC007. Moreover, compared to other NNRTIs, ACC007 showed 
+lower plasma protein binding and its protein-adjusted antiviral activity was comparable to efavirenz. 
+The recommended initial treatment regimens in HIV antiretroviral treatment guidelines issued by the U.S. 
+Department of Health and Human Services in 2014 include: NNRTIs-based regimens (2NRTIs + 1NNRTI), PIs-based 
+regimens (2NRTIs + 1PI) and INSTIs-based regimens (2NRTIs + 1 INSTI) [3]. The “Consolidated guidelines on the use 
+of antiretroviral drugs for treating and preventing HIV infection” issued by the World Health Organization (WHO) in 
+2013 recommended the first-line regimens of 2NRTIs + 1NNRTI[4]. Currently, the first-line ART regimens in China are 
+two NRTIs (TDF or AZT+ 3TC) plus one NNRTI (EFV or NVP). 
+Based on the recommendations of domestic and international treatment guidelines and the long-term and extensive 
+clinical evidence base of “2NRTIs + 1NNRTI”, we propose to select ACC007 in combination with (3TC + TDF) for the 
+subsequent anti-HIV clinical treatment. ACC007 is not yet on the market, so a drug interaction study of ACC007 in 
+combination with 3TC+TDF is required first. 
+1.1 ACC007 Pharmacy Research 
+Product Name: ACC007  
+Chemical name: 3-{[3-Ethyl-2,6-dioxo-5-(propyl-2-)-1,2,3,6-tetrahydropyrimidine-4-] carbonyl}-5-methylbenzo
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+nitrile 
+Chemical structure formula: 
+HN NO
+O
+OCN
+ 
+Molecular formula: C 18H19N3O3 
+Molecular weight: 325.37 
+Physicochemical properties: This product is a crystalline solid, white to off-white powder. 
+Functions and indications: Non-nucleoside reverse transcriptase inhibitor, combined with other antiretroviral drugs 
+for the treatment of HIV/AIDS. 
+Description of prescription: ACC007 from Jiangsu Aidea Pharmaceutical Co., Ltd. is the same as KM-023 
+prescription process from Kainos Medicine, Korea. 
+1.2 ACC007 Pharmacodynamic Studies 
+ACC007 showed antiviral activity (IC 50) of 5-7 nM against HIV-1 isolates from laboratory cell lines and human 
+peripheral blood mononuclear cells. The average EC 50 was 10.4 nM when tested against a group of 20 HIV-1 strains 
+representing 10 different subtypes from multiple regions of the world. ACC007 showed no significant decrease in the 
+activity of HIV-1 with NRTIs, PIs and INSTIs resistance mutations. And it had synergistic antiviral effects with TFV, 
+FTC, 3TC, AZT, ABC, LPV, ATV, RAL and EVG. Compared to other NNRTIs, ACC007 showed lower human serum 
+protein binding with a protein-adjusted EC 50 of 23 nM, comparable to EFV (16 nM). ACC007 showed approximately 7 
+to 10-fold reduced activity against viral strains containing single RT mutations K103N, Y181C and G190A. In vitro 
+resistance selectivity against two wild-type (WT) HIV-1 viral strains, HIV-1 IIIb and NL4-3, in MT-4 cells resulted in 
+the emergence of viral libraries containing NNRTI binding site mutations K103N, Y181C, L214F, F227L and V106A, 
+F227L, respectively. Both ACC007-selected mutant viral strains showed more than 70-fold reduced susceptibility to 
+ACC007 and cross-resistance to EFV. 
+In binding assays using the MDS Pharma Lead Profiling Screen and Cerep safety profile screen with over 200 ion 
+channels, receptors and enzymes, ACC007 did not bind significantly to any target at a concentration of 10 μM. While 
+EFV inhibited ligand binding of many receptors present in the CNS in the Cerep screen. It can be seen that the drug 
+off-target effect of ACC007 in the CNS may be relatively low compared to EFV. 
+In conclusion, results of several preclinical efficacy studies have shown that ACC007 has low nanomolar activity
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+against HIV-1 laboratory strains and clinical isolates in passaged cell lines and human peripheral blood mononuclear 
+cells. ACC007 also has activity against HIV-1 containing NRTIs, PIs and INSTs resistance mutations, and ACC007 
+showed good synergistic effects in combination with these classes of drugs. These results suggest that ACC007 has 
+good promise for the treatment of HIV/AIDS. 
+1.3 ACC007 Pharmacology Studies 
+Safety pharmacology studies were conducted to determine the potential cardiovascular, respiratory and central 
+nervous system effects of ACC007. The IC 50 prediction for ACC007 on the hERG potassium channel is greater than the 
+upper solubility limit of 50 mM. Therefore, ACC007 may have a negligible risk of arrhythmia in humans due to QT 
+interval prolongation. 
+The pharmacological effects of ACC007 on the central nervous system were assessed in male mice administered 
+orally at single doses of 0, 100, 500 or 1500 mg/kg. No dosing-related effects were observed for any of the qualitative 
+or quantitative parameters of the modified Irwin Screen assessment test. Based on these results, the NOEL for ACC007 
+in this study was determined to be 1500 mg/kg. 
+In a study assessing the pharmacological effects of ACC007 on respiratory, hemodynamic and ECG parameters by 
+telemetry after oral administration in beagle dogs, no drug-related effects were found for all parameters at dose levels of 
+15, 50 and 150 mg/kg. Based on these results, the NOEL for ACC007 in this study was determined to be 150 mg/kg. 
+1.4 ACC007 Toxicology Studies 
+The potential acute toxicity of ACC007 was observed in mice by single oral gavage doses of 100, 500, and 1500 
+mg/kg/day for 14 days, and the study suggested a no-observed-adverse-effect dose level (NOAEL) of 1500 mg/kg/day 
+for ACC007. 
+The potential toxicity and toxicokinetics of ACC007 were observed by oral gavage of mice at doses of 100, 500, 
+and 1500 mg/kg/day for 28 days, followed by a 28-day recovery period to assess its reversibility, and the study 
+suggested a NOAEL of 500 mg/kg/day for ACC007. 
+The potential toxicity and toxicokinetics of ACC007 were observed by oral gavage in beagle dogs at doses of 15, 
+50, and 150 mg/kg/day for 28 days, followed by a 28-day recovery period to assess its reversibility, and the study 
+suggested that the NOAEL of ACC007 was determined to be 150 mg/kg/day. 
+There was no evidence of genotoxicity of ACC007 in the in vitro mutation test (Salmonella typhimurium revertant 
+mutation test) method according to the guidelines. There was no evidence of genotoxicity of ACC007 in the in vitro
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+induced chromosome damage test (human peripheral blood lymphocyte chromosome aberration test) performed 
+according to the guidelines. The genotoxicity of ACC007 was assessed by the mouse bone marrow micronucleus test. 
+ACC007 did not cause a significant increase in the incidence of young red blood cell micronuclei in the bone marrow at 
+a single oral dose of up to 2000 mg/kg, suggesting a negative result in the ACC007 mouse bone marrow micronucleus 
+test under the conditions of this study. 
+1.5 ACC007 Non-clinical Pharmacokinetic Studies 
+We have mainly conducted studies on the blood concentration-time profile, absorption, distribution, excretion, 
+binding to plasma proteins, biotransformation, drug metabolizing enzymes and drug interactions of ACC007. 
+Preclinical in vivo data in the species indicate that ACC007 has low plasma clearance, a significantly higher 
+volume of distribution than the extracellular fluid and good oral bioavailability. Extrapolated human PK data suggest 
+that appropriate antiviral concentrations can be achieved with a single daily dose. 
+After oral administration of [14 C]-labeled ACC007 to male mice, most of the elimination of radioactivity occurred 
+within the first 24 hours, mainly through fecal excretion. Within 168 hours of administration, an average of 59.6% of 
+the drug was excreted in the feces and 17.7% in the urine. Radioactivity was widely distributed to mouse tissues 
+throughout the body and showed a time-dependent decrease in all tissues tested. the protein binding of ACC007 was 
+moderate in mouse, canine and human plasma, and the mean percent unbound of ACC007 in humans was 25.2 ± 1.3%. 
+The metabolic transformation of ACC007 is low in mouse, canine and human liver particles, moderate in monkeys 
+and high in rats, with monohydroxylation being the major in vitro metabolic pathway of ACC007. 
+In vitro studies of human CYP450 isoforms (CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 and 3A4) assays suggest that 
+ACC007 may be slowly metabolically converted via CYP2C19. However, the low metabolic conversion rates of all 
+isoforms suggest that ACC007 is unlikely to cause significant clinical drug interactions based on metabolic inhibition. 
+ACC007 does not significantly inhibit any of the major human CYP450 isoforms at concentrations up to 25 μM. 
+ACC007 has no induction of CYP1A and a mild induction of CYP3A4. ACC007 is not a substrate for transporter PGP. 
+1.6 ACC007 Completed Clinical Studies 
+1.6.1 Tolerability and pharmacokinetics of single dose in healthy Chinese subjects 
+An open, dose-escalating single-dose administration trial was completed at Beijing Youan Hospital, Capital 
+Medical University, from April 2017 to May 2017, with three dose groups of 75, 150 and 300 mg, 10 cases/group, and 
+no shedding cases among 30 healthy volunteers (20 males and 10 females), all completed the trial to be included in the
+
+Version number: V2.0 Version date: 20181023  
+ safety and pharmacokinetic analysis. The safety, to
+evaluated after a single oral dose on an empty stom
+Figure 1 Study Flow 
+Results: The single dose of this product was well tolerated afte
+adverse events were reported in 17 of 30 subjects (
+300 mg group), of which 26 adverse events were judg
+group, 60% in the 150 mg group and 60% in the 300 mg group). A total of 3 subjects in 
+adverse events, of which 2 subjects had 4 adverse events judged as 
+disappearance, 1 still existed, and 1 regression wa
+6 subjects, all of which were judged as adverse reactions, 5 adverse events were classif
+unknown. In the 300 mg dose group, 15 adverse event
+reactions in 6 subjects, 12 adverse events were cla
+reactions, only one adverse reaction “pre
+judged as grade 1. Adverse reactions included eleva
+LDL, elevated aspartate aminotransferase, prolonged
+prolonged electrocardiogram QT interval, elevated b
+hyperbilirubinemia, and pre-syncope. 
+Pharmacokinetic analysis showed that ACC007 peaked 
+elimination at T 1/2 for about 28h, C max and AUC increased with the increase of the dose, bu
+was lower than the ratio of dose increase. The diff
+pharmacokinetic parameters showed moderate individu
+1.6.2 A trial of the effect of eating on ACC007 in health
+An open, randomized, double- crossover design of 150 mg of this product was 
+Hospital, Capital Medical University, from May 2017
+shedding completed the trial and were included to evaluate and compare the pharmacok
+ADYY-ACC007-301 Clinical Study Protocol 
+  
+safety and pharmacokinetic analysis. The safety, to lerability and pharmacokinetic characteristics of A
+evaluated after a single oral dose on an empty stom ach. The study flow is shown in the following figur
+Study Flow of ACC007 Single Dose Tolerability and Pharmacokinetics
+single dose of this product was well tolerated afte r increasing from 75 mg to 300 mg. Thirty
+adverse events were reported in 17 of 30 subjects ( 30% in the 75 mg group, 60% in the 150 mg group 
+300 mg group), of which 26 adverse events were judg ed as possibly related in 14 of 30 subjects (20% in
+60% in the 300 mg group). A total of 3 subjects in the 75 mg dose group had 5 
+of which 2 subjects had 4 adverse events judged as adverse reactions, 3 adverse events regressed to 
+disappearance, 1 still existed, and 1 regression wa s unknown. In the 150 mg dose group, 11 adverse eve
+as adverse reactions, 5 adverse events were classif ied as disappeared and 6 were 
+unknown. In the 300 mg dose group, 15 adverse event s occurred in 8 subjects, 11 of which were judged a
+reactions in 6 subjects, 12 adverse events were cla ssified as d isappeared and 3 were still present. Among all the 
+reactions, only one adverse reaction “pre -syncope” in the 150 mg group was judged as grade 2,
+judged as grade 1. Adverse reactions included eleva ted blood triglycerides, elevate d alanine aminotransferase, elevated 
+LDL, elevated aspartate aminotransferase, prolonged  activated partial thromboplastin time, positive ur
+prolonged electrocardiogram QT interval, elevated b lood cholesterol, sinus bradycardia, hyperlipidemi
+Pharmacokinetic analysis showed that ACC007 peaked in humans at T max for about 3h, with slow plasma 
+and AUC increased with the increase of the dose, bu
+was lower than the ratio of dose increase. The diff erences between male and female were not significan
+pharmacokinetic parameters showed moderate individu al variability of this drug.  
+A trial of the effect of eating on ACC007 in health y Chinese subjects 
+crossover design of 150 mg of this product was completed
+Hospital, Capital Medical University, from May 2017  to June 2017. Sixteen subjects (10 males and 6 fem
+were included to evaluate and compare the pharmacok inetic parameters and safety of 
+lerability and pharmacokinetic characteristics of A CC007 were 
+ach. The study flow is shown in the following figur e 1. 
+ 
+ 
+ 
+ 
+Tolerability and Pharmacokinetics  
+r increasing from 75 mg to 300 mg. Thirty -one 
+30% in the 75 mg group, 60% in the 150 mg group and 80% in the
+
+Tolerability and Pharmacokinetics  
+r increasing from 75 mg to 300 mg. Thirty -one 
+30% in the 75 mg group, 60% in the 150 mg group and 80% in the 
+ed as possibly related in 14 of 30 subjects (20% in  the 75 mg 
+the 75 mg dose group had 5 
+adverse reactions, 3 adverse events regressed to 
+s unknown. In the 150 mg dose group, 11 adverse eve nts occurred in 
+ied as disappeared and 6 were 
+s occurred in 8 subjects, 11 of which were judged a s adverse 
+isappeared and 3 were still present. Among all the adverse 
+syncope” in the 150 mg group was judged as grade 2,  while the rest were 
+d alanine aminotransferase, elevated 
+ activated partial thromboplastin time, positive ur ine leukocytes, 
+lood cholesterol, sinus bradycardia, hyperlipidemi a, 
+for about 3h, with slow plasma 
+and AUC increased with the increase of the dose, bu t the percentage of incre ase 
+erences between male and female were not significan t. The main 
+completed  at Beijing Youan 
+ to June 2017. Sixteen subjects (10 males and 6 fem ales) without 
+inetic parameters and safety of
+
+Version number: V2.0 Version date: 20181023  
+ ACC007 in fasting or fed state. The study flow is s
+ 
+ 
+ 
+ 
+ 
+Figure 2 Study Flow 
+Results: A total of 9 adverse events occurred in 7 of 16 (43
+which 7 adverse events were judged as adverse react
+disappearance, 1 was relieved and 3 still existed. However, a total of 16 adverse eve
+subjects during the postprandial administration per
+6 of 16 (37.5%) subjects. Thirteen adverse events tur
+serious adverse events or adverse events leading to
+as grade 1, and the safety of the subjects was good
+aminotransferase, elevated LDL, hematuria, prolonge
+triglycerides, decreased hemoglobin, sinus bradycar
+and hyperbilirubinemia. 
+The results of the food effect test showed that die
+and AUC by >20% compared to fasting administration.
+plasma elimination half- life of ACC007.
+1.6.3 Safety, tolerability, pharmacokinetics and pharmaco
+A multiple dosing safety, tolerability, pharmacokineti
+Youan Hos pital, Capital Medical University, from October 201
+dosing, dose- escalation, open trial design with 
+protocol was later revised t o include a 75 mg group of 8 ART
+figure 3. 
+ 
+  
+ 
+ADYY-ACC007-301 Clinical Study Protocol 
+  
+ACC007 in fasting or fed state. The study flow is s hown in the following figure 2.  
+Figure 2 Study Flow for the Effect of Eating on ACC007
+A total of 9 adverse events occurred in 7 of 16 (43 .8%) subjects during fasting administration period,
+which 7 adverse events were judged as adverse react ions in 6 of 16 (37.5%) subjects. Five adverse even
+3 still existed. However, a total of 16 adverse eve nts occurred in 9 of 16 (56.3%) 
+subjects during the postprandial administration per iod, of which 11 adverse events were judged as adve
+16 (37.5%) subjects. Thirteen adverse events tur ned into disappearance, 1 was relieved and 2 still 
+serious adverse events or adverse events leading to  shedding occurred during the trial. All adverse ev
+as grade 1, and the safety of the subjects was good . The various adverse r eactions include
+aminotransferase, elevated LDL, hematuria, prolonge d ECG QT interval, elevated blood cholesterol, elev
+triglycerides, decreased hemoglobin, sinus bradycar dia, sinus arrhythmia, hypertriglyceridemia, dyslip
+The results of the food effect test showed that die t promoted the absorption of ACC007, increasing C
+and AUC by >20% compared to fasting administration.  However, food did not affect the plasma time to pe
+ 
+Safety, tolerability, pharmacokinetics and pharmaco dynamics of multiple dosing in ART
+ultiple dosing safety, tolerability, pharmacokineti c and pharmacodynamic trial 
+pital, Capital Medical University, from October 201 7 to June 2018. The trial was a 
+escalation, open trial design with two dose groups of 150 and 300 mg, with 10 subjects
+o include a 75 mg group of 8 ART -naïve subjects . The study flow is shown in
+the Effect of Eating on ACC007  
+.8%) subjects during fasting administration period,  of 
+ions in 6 of 16 (37.5%) subjects. Five adverse even ts turned into 
+nts occurred in 9 of 16 (56.3%) 
+iod, of which 11 adverse events were judged as adve rse reactions in 
+ned into disappearance, 1 was relieved and 2 still existed. No 
+ shedding occurred during the trial. All adverse ev ents were judged 
+eactions include d elevated alanine 
+d ECG QT interval, elevated blood cholesterol, elev ated blood 
+dia, sinus arrhythmia, hypertriglyceridemia, dyslip idemia, anemia, 
+t promoted the absorption of ACC007, increasing C max by >85% 
+ However, food did not affect the plasma time to pe ak and 
+dynamics of multiple dosing in ART -naïve patients 
+c and pharmacodynamic trial was completed at Beijing 
+7 to June 2018. The trial was a single-center, continuous 
+two dose groups of 150 and 300 mg, with 10 subjects  in each group. The 
+. The study flow is shown in  the following
+
+Version number: V2.0 Version date: 20181023  
+ Figure 3 Study Flow 
+Results: During the multiple dosing trial, 17 adverse events
+group, and 3 adverse events were judged to be adver
+disappearance. In the 150 mg group, 23 adverse even
+adverse reactions. Thirteen adverse events turned i
+severity, 5 of the adverse reactions (increased abs
+were grade 2, and all other adverse reactions were grade 1. In the 30
+(70%) subjects and all were judged as adverse reactions.
+and 8 still existed. One adverse e vent (elevated triglycerides) in one subject was ju
+glucose) were judged as grade 2 in two subjects, an
+adverse events or adverse events leading to sheddin
+including: elevated alanine aminotransferase, eleva
+elevated LDL, elevated lymphocyte count, elevated a
+blood cholesterol, elevated blood triglycerides, el
+pressure, right bundle branch block, first
+After 10 days of continuous administration, the dos
+safe and well tolerated, and the pharmacokinetic pa
+no accumula tion in the 75 mg, 150 mg and 300 mg groups. The ph
+decrease in HIV viral load in subjects at 75 mg, 15
+log10, respectively. Both 150 mg and 300 mg
+1.6.4 Clinical study of ACC007 and 3TC+TDF drug interacti
+A single-center, sequentially administered, randomized open,
+Beijing Ditan Hospital, Capital Medical Un
+included and randomized into two groups (groups A a
+was as follows. 
+ Figure A 
+ADYY-ACC007-301 Clinical Study Protocol 
+  
+ 
+ 
+Figure 3 Study Flow of Continuous Dose Escalation Tests of ACC007
+During the multiple dosing trial, 17 adverse events  occurred in 6 of 8 (75% ) subjects in the 75 mg dose 
+group, and 3 adverse events were judged to be adver se reactions in 2 of 8 (25%) subjects, all of which turned into 
+disappearance. In the 150 mg group, 23 adverse even ts occurred in 8 of 10 (80%) subjects and 
+adverse reactions. Thirteen adverse events turned i nto disappearance, 2 were relieved and 8 still exis
+severity, 5 of the adverse reactions (increased abs olute lymphocyte count and increased blood glucose)
+all other adverse reactions were grade 1. In the 30 0 mg group, 15 adverse events occurred in 7 of
+were judged as adverse reactions.  Four adverse events turned into disappearance, 3 we
+vent (elevated triglycerides) in one subject was ju dged as grade 3, 2 (elevated blood 
+glucose) were judged as grade 2 in two subjects, an d all other adverse events were classified as grade
+adverse events or adverse events leading to sheddin g occurred in any of the three groups. The various ad
+including: elevated alanine aminotransferase, eleva ted gamma -glutamyl transferase, decreased white blood cell co
+elevated LDL, elevated lymphocyte count, elevated a spartate aminotransfe rase, decreased blood albumin, elevated 
+blood cholesterol, elevated blood triglycerides, el evated blood uric acid, elevated blood glucose, ele
+pressure, right bundle branch block, first -degree atrioventricular block, and supraventricular
+After 10 days of continuous administration, the dos e was increased from 75 mg to 300 mg and the subjec
+safe and well tolerated, and the pharmacokinetic pa rameters increased nonlinearly with the increase of
+tion in the 75 mg, 150 mg and 300 mg groups. The ph armacodynamic results showed a significant 
+decrease in HIV viral load in subjects at 75 mg, 15 0 mg and 300 mg, with a decrease of 1.73 log10, 1.7
+log10, respectively. Both 150 mg and 300 mg  dose groups showed good anti-HIV activity.  
+Clinical study of ACC007 and 3TC+TDF drug interacti ons 
+center, sequentially administered, randomized open,  parallel, single -order one
+Beijing Ditan Hospital, Capital Medical Un iversity, from April 2018 to June 2018. A total of 
+included and randomized into two groups (groups A a nd B) with 12 cases in each group. The study flow 
+ACC007 
+) subjects in the 75 mg dose 
+8 (25%) subjects, all of which turned into 
+10 (80%) subjects and all were judged as 
+nto disappearance, 2 were relieved and 8 still exis ted. In terms of 
+olute lymphocyte count and increased blood glucose)  in 4 subjects 
+0 mg group, 15 adverse events occurred in 7 of  10
+
+nto disappearance, 2 were relieved and 8 still exis ted. In terms of 
+olute lymphocyte count and increased blood glucose)  in 4 subjects 
+0 mg group, 15 adverse events occurred in 7 of  10 
+Four adverse events turned into disappearance, 3 we re relieved 
+dged as grade 3, 2 (elevated blood 
+d all other adverse events were classified as grade  1. No serious 
+occurred in any of the three groups. The various ad verse reactions 
+glutamyl transferase, decreased white blood cell co unt, 
+rase, decreased blood albumin, elevated 
+evated blood uric acid, elevated blood glucose, ele vated blood 
+degree atrioventricular block, and supraventricular  extrasystoles systole. 
+e was increased from 75 mg to 300 mg and the subjec ts were 
+rameters increased nonlinearly with the increase of  dose. There was 
+armacodynamic results showed a significant 
+0 mg and 300 mg, with a decrease of 1.73 log10, 1.7 2 log10 and 1.66 
+order one -way trial was conducted at 
+iversity, from April 2018 to June 2018. A total of 24 healthy volunteers were 
+nd B) with 12 cases in each group. The study flow of two groups
+
+Version number: V2.0 Version date: 20181023  
+ Figure B 
+Figure 4 Schematic Diagram of Drug Interaction Research Me
+Results: During the drug interaction trial, 51 adverse event
+were adverse reactions to ACC0 07, including 2 grade 2 adverse events (neutropenia
+count) and the rest were grade 1. In group A, 24 ad
+adverse reactions. Sixteen were turned into disappe
+was unknown. In group B, 27 adverse events occurred
+reactions. There were 22 adverse events turned into disappeara
+No serious adverse events or adverse events leading
+including: decreased white blood cell count, increa
+increased blood creatine phosphokinase MB, decrease
+upper respiratory tract infection, drowsiness, head
+bleeding, naus ea, toothache, myalgia, and ventricular extrasystol
+After multiple oral administrations (ACC007 alone/A
+ratios of C max and AUC ss for ACC007 were 112.97% and 121.10%, respectively (90 C
+107.47-136.47, respectively). And (3TC+TDF alone/ACC007 combined with 3TC+TDF), t
+Cmax and AUC ss for TDF were 92.47% and 111.24%, respectively (90 C
+respectively). And (3TC+TDF alone/ACC007 combi
+were 88.12% and 104.90%, respectively (90 CI%: 71.0
+80.00%-125.00% as the standard, it shows that ACC007 has w
+1.7 ACC007, EFV, 3TC and TDF Clinical Studies and Literature R
+1.7.1 Pharmacokinetic Characteristics
+1.7.1.1 ACC007 
+ADYY-ACC007-301 Clinical Study Protocol 
+  
+4 Schematic Diagram of Drug Interaction Research Me thods for ACC007 and 3TC + TDF: (A) in 
+Group A; (B) in Group B 
+During the drug interaction trial, 51 adverse event s occurred in 20 of 23 (87%) subjects, 45 of which 
+07, including 2 grade 2 adverse events (neutropenia  and decreased white blood cell 
+count) and the rest were grade 1. In group A, 24 ad verse events occurred in 9 of 12 (75%) subjects, 18 were judged as 
+adverse reactions. Sixteen were turned into disappe arance, 4 were relieved, one was aggravated, and one th
+was unknown. In group B, 27 adverse events occurred  in 11of 11 (100%) subjects, which were all judged as advers
+There were 22 adverse events turned into disappeara nce, 3 were relieved , and 2 the outcomes were unknown. 
+No serious adverse events or adverse events leading  to shedding occurred in either group. The various 
+including: decreased white blood cell count, increa sed alanine aminotransferase, decreased neutrophil 
+increased blood creatine phosphokinase MB, decrease d neutrophil count, prolonged QT interval on ECG, p
+upper respiratory tract infection, drowsiness, head ache, oropharyngeal pain, rash, fever, febrile sens
+ea, toothache, myalgia, and ventricular extrasystol e. 
+After multiple oral administrations (ACC007 alone/A CC007 combined with 3TC+TDF), the geometric mean 
+ACC007 were 112.97% and 121.10%, respectively (90 C
+And (3TC+TDF alone/ACC007 combined with 3TC+TDF), t
+for TDF were 92.47% and 111.24%, respectively (90 C I%: 81.82 -
+respectively). And (3TC+TDF alone/ACC007 combi ned with 3TC+TDF), the geometric mean ratios of C
+were 88.12% and 104.90%, respectively (90 CI%: 71.0 1-109.35 and 91.99- 119.61, respectively). Taking 
+125.00% as the standard, it shows that ACC007 has w eak interaction with 3TC+TDF.
+3TC and TDF Clinical Studies and Literature R
+Pharmacokinetic Characteristics  
+ACC007 and 3TC + TDF: (A) in 
+s occurred in 20 of 23 (87%) subjects, 45 of which 
+ and decreased white blood cell 
+12 (75%) subjects, 18 were judged as 
+ce, 4 were relieved, one was aggravated, and one th e outcome 
+11 (100%) subjects, which were all judged as advers e 
+, and 2 the outcomes were unknown. 
+ to shedding occurred in either group. The various adverse events 
+sed alanine aminotransferase, decreased neutrophil percentage, 
+d neutrophil count, prolonged QT interval on ECG, p haryngitis, 
+ache, oropharyngeal pain, rash, fever, febrile sens ation, gingival 
+CC007 combined with 3TC+TDF), the geometric mean 
+ACC007 were 112.97% and 121.10%, respectively (90 C I%: 96.39 -130.97 and 
+And (3TC+TDF alone/ACC007 combined with 3TC+TDF), t he geometric mean ratios of 
+104.51 and 102.29-120.97, 
+ned with 3TC+TDF), the geometric mean ratios of C max and AUC ss
+
+And (3TC+TDF alone/ACC007 combined with 3TC+TDF), t he geometric mean ratios of 
+104.51 and 102.29-120.97, 
+ned with 3TC+TDF), the geometric mean ratios of C max and AUC ss 
+119.61, respectively). Taking 
+eak interaction with 3TC+TDF.  
+3TC and TDF Clinical Studies and Literature R eview
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+Data from completed clinical studies suggest that, absorption: blood concentrations peak approximately 3 hours 
+after oral administration. Diet promotes absorption of ACC007, with an 86.6% increase in C max and 33.7% increase in 
+AUC0-t compared to fasting administration and no significant differences between the sexes, while the postprandial 
+peak and T 1/2 remain essentially unchanged. Metabolism: In vitro metabolism studies using human hepatocytes showed 
+that ACC007 is a weak substrate for cytochrome P450 metabolism and that the major isoenzyme involved in 
+metabolism is CYP2C19, which does not induce auto-metabolism. Linearity: The systemic exposure of ACC007 
+increases with dose-expanding, but disproportionately increased, with a non-linear pharmacokinetic profile. Excretion: 
+The mean renal clearance rate is between 0.11-0.15 L/h, the urinary prototype drug excretion rate is less than 1%, and 
+the plasma clearance half-life is approximately 28 hours. 
+1.7.1.2 Efavirenz 
+The results of pharmacokinetic studies of EFV are as follows. Absorption: Plasma concentrations peak after 
+approximately 5 hours of oral administration. Diet promotes the absorption of EFV, and bioavailability increases by 22% 
+and 17% after high-fat or normal meals, respectively, compared to fasting administration. Distribution: EFV is highly 
+bound to human plasma proteins, mainly albumin. Metabolism: Human studies and in vitro studies with human liver 
+microsomes have shown that EFV is metabolized primarily by the cytochrome P450 system to hydroxyl-containing 
+metabolites and their further glucosylated metabolites. These metabolites are essentially inactive against HIV-1. In vitro 
+studies confirmed that CYP3A4 and CYP2B6 are the major isozymes in the metabolism of EFV. In vitro studies also 
+showed that EFV inhibits the P450 isozymes 2C9, 2C19 and 3A4, with weak inhibition at clinically therapeutic doses 
+(Ki values are 8.5-17 μM). And EFV did not inhibit CYP2E1, but only inhibited CYP2D6 and CYP1A2 at doses well 
+above clinical therapeutic doses (Ki values were 82-160 μM). EFV plasma exposure may be increased in patients with 
+the G516T genetic variant of the CYP2B6 isozyme purifier. Moreover, EFV has been shown to induce P450 enzymes, 
+leading to auto-metabolism. Cumulative drug concentrations at doses of 200 to 400 mg daily for 10 days were lower 
+than expected (22 to 42% lower), with an endpoint half-life of 40 to 55 hours, also lower than that of single-dose dosing 
+(52 to 76 hours). Elimination: EFV had a relatively long terminal half-life of 52 to 76 hours for single-dose 
+administration and 40 to 55 hours after multiple doses. Radiolabeled EFV, about 14 to 34% found in urine, and less 
+than 1% of EFV excreted in urine in its original form. 
+1.7.1.3 Lamivudine  
+The results of pharmacokinetic studies of 3TC are as follows. Absorption: peak blood concentrations were reached
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+after approximately 0.9 ± 0.3 hours of oral administration on an empty stomach. Absolute oral bioavailability was 
+86±16% (mean ± SD) in adult patients. Linear pharmacokinetics in the therapeutic dose range. Concomitant 
+administration with food resulted in a prolongation of T max and a decrease in C max (by 47%). However, absorption was 
+not affected (based on AUC). Distribution: The apparent volume of distribution is approximately 1.3 ± 0.4 L/kg to 
+extravascular tissues. The volume of distribution is independent of dose and body weight. 3TC has a low plasma 
+protein binding rate (less than 36%). In vitro studies have shown that at concentrations of 0.1-100 μg/mL, the binding 
+rate of 3TC to erythrocytes is 53-57%, independent of concentration. Metabolism: Metabolism is a minor route of 
+clearance for 3TC, and the only known metabolite is the trans-sulfoxide metabolite. Within 12 hours after a single oral 
+dose of 3TC, 5.2 ± 1.4% of the dose was excreted in the urine as a trans-sulfoxide metabolite, which was not measured 
+in serum. Excretion: The majority of 3TC is excreted from the urine in its original form by active secretion of organic 
+cations. Renal clearance was 199.7 ± 56.9 ml/min (mean ± SD) after a single oral dose of 3TC 300 mg in healthy 
+subjects. In most single-dose studies involving HIV-infected patients, HBV-infected patients or healthy subjects, serum 
+specimens were collected within 24 hours of administration and a mean elimination half-life of 5-7 h was observed, and 
+oral clearance and elimination half-life were independent of dose and body weight at oral doses in the range of 0.25-10 
+mg/kg.  
+3TC is cleared primarily as a prototype by renal excretion. Drugs that need to be metabolized in vivo have little 
+potential to interact with 3TC because of its small hepatic metabolism (5-10%) and low binding to plasma proteins. 
+Studies in patients with renal impairment have shown that the clearance of 3TC is affected by renal insufficiency. 
+Dose adjustment is recommended for patients with creatinine clearance below 20 ml/min. Interaction with meperidine, 
+one of the components of cotrimoxazole, increases 3TC exposure by 40% at therapeutic doses. Dose adjustment is not 
+required unless the patient has renal impairment. Patients with renal impairment require caution with concomitant use 
+of cotrimoxazole and 3TC. 
+1.7.1.4 Tenofovir Disoproxil Fumarate 
+The results of the TDF pharmacokinetic studies are as follows. Absorption: TDF is a water-soluble, dual-lipid 
+precursor drug to the active ingredient tenofovir. The oral bioavailability is approximately 25% on an empty stomach. 
+The highest serum concentration (C max) was reached within 1.0±0.4 h after a single oral dose of TDF 300 mg in HIV-1 
+infected subjects under fasting conditions. C max and AUC τ values were 249 ng/ml and 2541 ng-hr/ml, respectively. After 
+multiple oral administrations of TDF 300 mg on an empty stomach in Chinese healthy subjects, C max and AUC τ values 
+were 328 ng/ml and 2460 ng-hr/ml, respectively. The pharmacokinetics of tenofovir at doses between TDF 75-600 mg
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+were proportional to the dose and were not affected by repeated dosing. Distribution: In the concentration range of 
+0.01-25 μg/mL, the in vitro binding of tenofovir to human plasma or serum proteins was less than 0.7% and 7.2%, 
+respectively. The steady-state volume of distribution was 1.3 ± 0.6 L/kg and 1.2 ± 0.4 L/kg after intravenous 
+administration of tenofovir at 1.0 mg/kg and 3.0 mg/kg, respectively. Metabolism and clearance: In vitro studies have 
+shown that neither TDF nor tenofovir is a substrate for CYP enzymes. The terminal half-life of tenofovir after a single 
+oral dose of TDF is approximately 17 h. After multiple oral doses of 300 mg once daily (in the fed state), 32±10% of 
+the administered dose is recovered in the urine within 24 h. Tenofovir is cleared by a combination of glomerular 
+filtration and active renal tubular secretion. Competition for clearance may arise with other drugs that are cleared 
+through the kidney. 
+1.7.2 Drug Interaction Studies 
+In vitro and animal results showed that no drug-drug interactions occurred between the three components of this 
+test drug, ACC007, 3TC, and TDF, and no effects on 3TC pharmacokinetic parameters were seen with TDF in healthy 
+volunteers. The results of completed clinical studies of drug interactions with this product indicate a weak interaction 
+between ACC007 and (3TC+TDF). 
+Because NRTIs are metabolized by different pathways from EFV and are unlikely to compete with EFV for the 
+same metabolic enzymes and elimination pathways, EFV and (3TC+TDF) are not considered to have clinically 
+significant interactions. 
+1.7.3 Risks of EFV 
+In clinical controlled studies in combination with PIs and/or NRTIs, the most common adverse events of moderate 
+to severe severity occurring at an incidence greater than 5% and related to treatment were rash (11.6%), dizziness 
+(8.0%), nausea (8.0%), headache (5.7%), and malaise (5.5%). The most notable adverse events associated with EFV 
+were rash, neurologic symptoms, and psychiatric symptoms. Concomitant administration with food increases EFV 
+exposure and can increase the incidence of adverse reactions. Elevations in aspartate aminotransferase, alanine 
+aminotransferase, and glutamyl transpeptidase (GGT) were observed in some laboratory tests performed in clinical 
+studies in some patients receiving EFV. However, the separate GGT elevations in EFV-treated patients respond to 
+enzyme induction rather than hepatotoxicity. Elevated lipids have also been observed in some clinical studies in 
+patients taking EFV. Other treatment-related adverse events that have occurred less frequently in clinical studies include: 
+allergic reactions, coordination abnormalities, ataxia, confusion, coma, dizziness, vomiting, diarrhea, hepatitis, 
+inattention, insomnia, anxiety, heterodreams, sleepiness, depression, abnormal thinking, euphoria, amnesia, confusion,
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+emotional instability, euphoria, hallucinations, and psychotic symptoms. In addition, some of the adverse events 
+reported in post-marketing surveillance include: neurasthenia, paranoia, cerebellar coordination and balance disorders, 
+convulsions, pruritus, abdominal pain, blurred vision, flushing, gynecomastia, hepatic failure, photosensitivity 
+dermatitis, pancreatitis and redistribution or accumulation of body fat at the back of the neck, breast, abdomen and 
+retroperitoneum, tinnitus and tremors. 
+1.7.4 Risks of 3TC 
+The following adverse events have been reported in HIV-1-infected patients treated with 3TC. The adverse events 
+potentially associated with treatment are listed separately according to body system, organ class, and incidence, etc. 
+The conventional expressions for the classification of adverse reactions are: very common (>10%), common (1-10%), 
+rare (0.1-1%), and very rare (<0.01%). 
+Hematologic and lymphatic system symptoms: neutropenia, anemia (both of which are sometimes severe), 
+thrombocytopenia are rare, and pure red blood cell aplasia is extremely rare; neurologic symptoms include headache, 
+insomnia, and very rarely peripheral neuropathy or sensory abnormalities; respiratory, thoracic, and mediastinal 
+symptoms include cough and nasal symptoms; gastrointestinal symptoms include nausea, vomiting, epigastric pain or 
+abdominal pain, diarrhea, elevated serum amylase, pancreatitis is rare; liver manifestations: rare symptoms are transient 
+elevation of liver enzymes (AST, ALT), and hepatitis is extremely rare; skin and subcutaneous tissue common 
+symptoms are rash, hair loss; musculoskeletal and joint tissue common arthralgia, muscle dysfunction, rhabdomyolysis 
+is rare; other common symptoms are fatigue, discomfort, fever. 
+Cases of lactic acidosis usually with severe hepatomegaly and fatty liver have been reported in patients on 
+nucleoside analogs, sometimes with life-threatening effects. HIV-1 patients treated with combination antiretroviral 
+drugs can be associated with redistribution of body fat (impaired fat metabolism), including peripheral and facial 
+subcutaneous fat loss, increased abdominal and visceral fat, breast enlargement, and neck and back fat accumulation. 
+Combination antiretroviral therapy may be associated with metabolic abnormalities such as hypertriglyceridemia, 
+hypercholesterolemia, insulin resistance, and hyperlactatemia. 
+1.7.5 Risks of TDF 
+In clinical trials with TDF tablets alone or in combination with other antiretroviral drugs in adults with HIV-1 
+infection, the most common adverse reactions (incidence greater than or equal to 10%, grades 2-4) included rash, 
+diarrhea, headache, pain, depression, malaise, and nausea. In clinical trials of TDF tablets or stavudine in combination 
+with 3TC and EFV in ART-naïve patients, and in clinical trials of TDF + emtricitabine in combination with EFV or
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+zidovudine/3TC in combination with EFV in ART-naïve subjects as well as ART-experienced subjects, the most 
+common adverse reactions were mild to moderate gastrointestinal events and dizziness. In clinical trials in adult 
+subjects with chronic hepatitis B and compensated liver disease, a higher number of injured subjects experienced 
+nausea, abdominal pain, diarrhea, headache, dizziness, malaise, nasopharyngitis, back pain, and rash. In clinical trials in 
+Chinese adults with chronic hepatitis B, the most frequently reported adverse event was upper respiratory tract infection. 
+In clinical trials in adult subjects with chronic hepatitis B and decompensated liver disease, the most common adverse 
+reactions were abdominal pain, nausea, insomnia, pruritus, vomiting, dizziness and fever. The following adverse 
+reactions were identified during post-approval use of TDF: (1) immune system disorders: allergic reactions, including 
+neuroedema; (2) metabolic and nutritional disorders: hypophosphatemia, hypokalemia, lactic acidosis; (3) respiratory, 
+thoracic and mediastinal disorders: dyspnea; (4) gastrointestinal disorders: abdominal pain, elevated amylase and 
+pancreatitis; (5) hepatobiliary disorders: fatty liver, elevated liver enzymes (most commonly glutamic aminotransferase, 
+ghrelin, gamma-glutamyl transpeptidase), hepatitis; (6) skin and subcutaneous tissue disorders: rash; (7) 
+musculoskeletal and connective tissue disorders: rhabdomyolysis, osteochondrosis (manifested by bone pain, which 
+may cause fractures), myasthenia gravis, myopathy; (8) renal and urinary disorders: renal insufficiency, renal failure, 
+acute renal failure, Fanconi syndrome ( renal tubular injury with severe hypophosphatemia), proximal tubular lesions, 
+proteinuria, elevated creatinine, acute tubular necrosis, nephrogenic uremia, polyuria and interstitial nephritis (including 
+acute cases); (9) systemic diseases and medication site conditions: weakness. 
+2 Objectives of the Study 
+Primary Objective 
+z Demonstrate that the proportion of subjects with virologic response (VL < 50 copies/mL) in the 
+ACC007 group is not inferior to the EFV control group at 48 weeks of treatment for HIV/AIDS without 
+ARV, with a non-inferiority threshold of 10% 
+Secondary Objective 
+z To evaluate and compare antiviral activity (HIV RNA levels) between the ACC007 and EFV groups at 
+48 weeks 
+z To evaluate and compare the safety of the ACC007 and EFV groups at 48 weeks 
+z To evaluate and compare the changes in immune function (CD4  cell counts) between the ACC007 and 
+EFV groups at 48 weeks 
+z To evaluate the population pharmacokinetic (popPK) characteristics of ACC007 and PK/PD (PK/HIV
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+RNA vs. PK/AE) relationship 
+z To evaluate the safety at 24 weeks of treatment 
+z To evaluate the proportion of subjects with virological response (VL < 50 copies/mL) at 96 weeks of 
+treatment 
+z To evaluate antiviral activity (HIV RNA levels) at 96 weeks of treatment 
+z To evaluate the safety at 96 weeks of treatment 
+z To evaluate the changes in immune function at 96 weeks of treatment (CD4 cell counts) 
+3 Study Design and Methodology 
+3.1 Overall Design 
+Multicenter, randomized, double-blind, double-simulation, positive parallel-controlled, non-inferiority trial design. 
+3.2 Sample Size Calculation 
+According to the literature reports and the current situation of antiviral treatment in China, the average percentage 
+of subjects with HIV RNA levels <50 copies/mL after treatment was expected to be 80% for the experimental group 
+and the control group in this study. The significance level of the test is at a 1-sided, α=0.025, β=0.2, and a 
+non-inferiority threshold is 0.10[3]. Based on the above parameters and a ratio of 1:1 to experimental group and control 
+group, the sample size was calculated to be 252 for each group. After considering the shedding rate of about 20%, the 
+final sample size was calculated to be 630 (315 per group). 
+3.3 Dose Selection 
+The results of the completed phase IIa clinical study showed that ACC007 at 75 mg, 150 mg, and 300 mg doses 
+significantly inhibited HIV RNA in infected patients with high or low level of viral loads, with mean viral load 
+decreases of 1.73 log10, 1.72 log10, and 1.66 log10, respectively, and all showed good safety. In view of the results of 
+the ACC007 MAD study showing that its exposure is not linear with the increase in dose, in addition, the 150 mg dose 
+has reached the expected C24 concentration requirements, while the 75 mg dose cannot meet the serum 
+protein-adjusted EC50 (nM) of the K103N/Y181C drug-resistant strain in vitro experiments. Combined with the 
+consideration of the genetic instability of HIV and a combination of drugs with higher exposure concentrations was 
+usually used to prevent the occurrence of drug resistance mutations, the dose of ACC007 administered in this study was 
+therefore determined to be 150 mg per person, once a day. 
+EFV, 3TC, and TDF have all been on the market for many years and have accumulated a large amount of
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+evidence-based data on the combination of drugs, and all of them were used in this study at the commonly used clinical 
+doses. 
+3.4 Study Groups  
+ 
+ 
+Table 1 Medication for Study Groups 
+Group Experimental drugs Sample size 
+(Number) Treatment 
+period 
+(Blind 
+state/week)  Extension 
+period 
+(Open/week)  
+Test 
+group Take at night before bedtime: ACC007 150mg + EFV placebo + 3TC 
+300mg + TDF 300mg  315 48 
+48 
+Control 
+group Take at night before bedtime: EFV 600mg + ACC007 placebo + 3TC 
+300mg + TDF 300mg  315 48 
+Note: At the end of the 48-week study up to week 96, all subjects are no longer taking the placebo and have the option to enter the 
+extension study and continue treatment with ACC007+3TC+ TDF or EFV+3TC+ TDF, or be coordinated for transfer to the National Free 
+Treatment System, depending on the subject’s wishes. 
+4 Subject Selection 
+4.1 Inclusion and Exclusion Criteria 
+4.1.1 Inclusion criteria 
+(1)  18-65 years old 
+(2) Diagnosed with HIV-1 infection, HIV RNA ≥ 1000 copies/mL 30 days before enrollment and subject is 
+judged to be suitable for ART regimen by the investigator 
+(3) Never received ARV treatment or therapeutic HIV-1vaccine and agree not to initiate ART treatment before the 
+baseline visit 
+(4) Understand and comply with the requirements of the study protocol and voluntarily sign a written informed 
+consent form 
+4.1.2 Exclusion Criteria 
+(1) Status of acute HIV-1 infection or currently suffering from AIDS related complex  
+(2) History of drug abuse, or has a recent history of alcohol/ drug dependence 
+(3) Any condition considered by the investigator that may compromise the safety of the subject and affect 
+compliance with the study protocol
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+(4) Participated in a clinical trial with an investigational compound/therapeutic device within 30 days prior to 
+enrollment of this study 
+(5) Used systemic immunosuppressive therapy or immune modulators within 30 days prior to treatment in this 
+studyor could not avoid using them during the course of the study 
+(6)  Hepatitis C or hepatitis B with glutathione > 4 times ULN 
+(7) Creatinine ≥ ULN and a glomerular filtration rate (GFR) ≤ 60 (mL/minute/1.73 m2 ) as derived from the 
+CKD-EPI creatinine formula (GFR = a*(serum creatinine)/b)^c*(0.993)^age. The a values differ according to gender 
+and ethnicity: blacks: females = 166, males = 163; whites and other ethnicities: females = 144, males = 141. The b 
+values differ according to sex: females = 0.7; males = 0.9. The c values differ according to sex and serum 
+creatinine values: females: c = -0.329 for serum creatinine ≤ 0.7 mg/dL, c = -1.209 for serum creatinine > 0.7 
+mg/dL; males: c = -0.411 for serum creatinine ≤ 0.7 mg/dL, c = -0.411 for serum creatinine > 0.7 mg/dL. 
+(c=-1.209 for serum creatinine > 0.7 mg/dL) 
+(8) Grade 3 or 4 presentation according to the DAIDS grading scale  
+(9) Active pulmonary tuberculosis and is on treatment at the time of screening (subjects who develop active 
+pulmonary tuberculosis  during the trial will be withdrawn from treatment in order to start anti-tuberculosis 
+therapy) 
+(10) Received  antifungals, corticosteroids, and sulfonamides and antituberculosis drugs within 14 days prior to 
+studyvscreening or taking these drugs. 
+(11) A history of allergy or hypersensitivity to any component or excipient of the investigational drug 
+(12) Women who are pregnant or breastfeeding; women of childbearing potential who are not using contraception 
+(e.g., contraceptive diaphragm; condom; IUD, etc.; partner vasectomy) ; female subjects who are unwilling to 
+continue using an investigator-approved form of contraception from screening until 6 months after the last dose of 
+trial drug. Male subjects with active heterosexual sex without vasectomy who are not using birth control methods 
+or who do not wish to continue using contraception during the trial until at least within 30 days after the end of the 
+trial. 
+4.2 Criteria for Interruption of Treatment 
+(1) Subjects who are unable to continue observation due to adverse events, or those who are judged by the 
+investigator to need to withdraw from the trial from the perspective of the interests of the subjects, except those 
+who can continue the trial under close observation or corresponding treatment.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+(2) Subjects who are found to have failed virological treatment or have serious opportunistic infections during the 
+trial can withdraw from the trial or be transferred to national free ART programme after confirmation by the 
+investigator. 
+Definition of virological failure: HIV RNA >400 copies/mL after 24 weeks of ART, excluding influencing 
+factors such as poor adherence, drug interactions, and self-malabsorption syndrome. For subjects with virological 
+failure, all plasma samples for viral load and drug resistance testing from baseline to the 24-week visit will be 
+transported to the central laboratory for unified testing. The results of the central laboratory’s review and feedback 
+will be used as the criteria for the judgment of virological failure and for further processing. 
+In the event of virological failure, the principal investigator of each center will decide whether the subject will 
+withdraw from the study and decide the subsequent treatment regimen.  
+(3) Female subjects were pregnant during the trial. 
+4.3 Criteria for Withdrawal from the Trial 
+(1) Subjects who are unable to comply with the trial protocol or the investigator’s requirements. 
+(2) Subjects who are in breach of contract or loss of follow-up  
+4.4 Criteria for Discontinuing the Trial 
+Discontinuation of a trial means that the clinical trial has not been completed according to the protocol and all 
+procedures are stopped in the middle. The purpose of trial discontinuation is mainly to protect the rights and interests of 
+subjects, ensure the quality of the trial, and avoid unnecessary economic losses. 
+Criteria for discontinuing the trial: 
+(1) In the event of a serious security issue during the trial, the Data and Security Monitoring Board (DSMB) will 
+discuss and decide to discontinue the trial in accordance with the workflow. 
+(2) Significant errors in the clinical study protocol were found during the trial, making it difficult to evaluate 
+drug effects, or a well-designed protocol had significant deviations in implementation, making it difficult to 
+evaluate drug effects by continuing. Or the quality of the trial does not meet the requirements, and the data 
+recording is inaccurate and incomplete. A resolution to discontinue the trial is made by the DSMB after 
+discussion in accordance with the workflow. 
+(3) The sponsors requested discontinuation due to funding, unsatisfactory subject recruitment, and administrative 
+reasons.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+(4) The State Administration of Market Supervision and Administration requested to suspend the trial. 
+(5) Discontinuation requested by the ethics committee. 
+5 Treatment Allocation and Blinding 
+5.1 Experimental Drugs 
+ACC007, dosage form: tablet; specification: 75 mg/tablet, 2 tablets each time, once daily; lot number: *******, 
+valid until ******, tested and approved by Jiangsu Aidea Pharmaceutical Co., Ltd. 
+ACC007 placebo, dosage form: tablet; 2 tablets each time, once daily; lot number: *******, valid until ******, 
+tested and approved by Jiangsu Aidea Pharmaceutical Co., Ltd. 
+EFV, dosage form: tablet; specification: 600 mg/tablet, 1 tablet/day, lot number: *******, valid until ******, 
+tested and approved, manufactured by Shanghai Disenor Biopharmaceutical Co. and provided free of charge by Jiangsu 
+Aidea Pharmaceutical Co., Ltd. 
+EFV placebo, dosage form: tablet; 1 tablet each time, once daily; lot number: *******, valid until ******, tested 
+and approved, provided by Jiangsu Aidea Pharmaceutical Co., Ltd. 
+3TC, dosage form: tablet; specification: 300 mg/tablet, 1 tablet/day; lot number: *******, valid until ******, 
+tested and approved, manufactured by Shanghai Disenor Biopharmaceutical Co. 
+TDF, dosage form: tablet; specification: 300 mg/tablet, 1 tablet/day, lot number: *******, valid until ******, 
+inspected and qualified, manufactured by Chengdu Bite Pharmaceutical Co., Ltd. and provided by the National Free 
+System. 
+5.2 Drug Labeling 
+The following markings will be printed: sponsor name, product name, study number, content, route of 
+administration, storage conditions, lot number and package number, and other regulatory requirements. 
+For clinical research use only 
+ACC007 Drugs for Clinical Trials       
+Clinical Study Lot No.: 2017L01340 Drug Package No.    
+Product name: ACC007 tablets Verification code. 
+Specification quantity: 75 mg/tablet, tablet/bottle 
+Dosage: Take 2 tablets once at night before going to bed 
+Storage: room temperature, protected from light 
+Lot number: ******* 
+Effective period: Until ****** 
+Provided by Jiangsu Aidea Pharmaceutical Co., Ltd.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+ 
+For clinical research use only 
+Drugs for EFV clinical trials       
+Clinical Study Lot No.: 2017L01340 Drug Package No.    
+Product name: Efavirenz tablets Verification code. 
+Specification quantity: 600 mg/tablet, tablet/bottle 
+Dosage: Take 1 tablet once at night before going to bed 
+Storage: room temperature, shade, sealed place 
+Lot number: ******* 
+Effective period: Until ****** 
+Provided by Jiangsu Aidea Pharmaceutical Co., Ltd. 
+ 
+For clinical research use only 
+3TC clinical trial drugs      
+Clinical research lot number: 2017L01340           
+Product name: Lamivudine tablets        
+Specification quantity: 300 mg/tablet, 30 tablets/bottle 
+Dosage: Take 1 tablet once at night before going to bed 
+Storage: room temperature, protected from light 
+Lot number: ******* 
+Effective period: Until ****** 
+Provided byJiangsu Aidea Pharmaceutical Co., Ltd. 
+5.3 Drug Storage 
+ACC007 and its placebo, EFV and its placebo, 3TC, TDF should be stored and transported in a safe place at room 
+temperature and protected from light. 
+5.4 Drug Allocation and Randomization 
+The trial was centrally randomized, stratified by center, and random numbers were assigned by DAS for IWRS. 
+Randomization of blinded personnel was performed on a computer using SAS 9.4 statistical software package, and 
+random numbers were generated in a 1:1 ratio between the experimental and control groups using the central zone 
+group randomization method. The randomization numbers were imported into the DAS for IWRS system for requesting 
+randomization numbers and issuing drugs, and each center competed for enrollment. 3TC and TDF were required to 
+keep detailed records of drug allocation and recall. The randomization form (primary blinded base) and secondary 
+blinded base were kept in sealed triplicate and sealed at the sponsor, clinical study agency in charge and DSMB, 
+respectively. 
+5.5 Subject Code
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+Each subject was assigned a screening number consisting of a “T” plus 4 digits (e.g., T0001, T0002) according to 
+the signed informed consent form. 
+5.6 Concomitant Medication  
+Any other medication taken after administration of the 1st study medication will be considered concomitant 
+medication. 
+All concomitant medications should be restricted. If concomitant medication is clinically indicated, each drug used 
+must be documented in the CRF. The record information must include: generic name, trade name, route of 
+administration, start date, stop date, dose, and indication. If concomitant drug use occurs, the decision to continue or 
+discontinue participation in the trial will be made by the principal investigator in conjunction with the sponsor. 
+6 Study Contents and Procedures 
+6.1 Specific Content for Each Visit Time 
+6.1.1 Visit 1 (-30d to -1d, screening) 
+Subjects will be screened 30 days prior to the start of the trial to determine whether meet all inclusion/exclusion 
+criteria. Details are as follows: 
+(1) Obtain written informed consent. 
+(2) Collection of subject demographic data and medical history. 
+(3) Comply with the Health Industry Standard of the People’s Republic of China (WS293-2008) - Diagnostic 
+Criteria for HIV/AIDS. 
+(4) Record all treatments within the six months prior to enrollment in the study, and if subjects enrolled in the 
+study have used prescription or over-the-counter medications within six months, the investigator should 
+verify their suitability for this study. 
+(5) HIV confirmation. 
+(6) Medication adherence education and assessment.   
+(7) A full physical examination (including height, weight, etc.). 
+(8) Vital signs: body temperature, respiration, blood pressure and heart rate. 
+(9) Routine blood test, blood biochemistry, routine urine test.  
+(10) Hepatitis B screen. 
+(11) Hepatitis C antibodies.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+(12) RPR titers. 
+(13) Urine drug test screening. 
+(14) CD4 cell count. 
+(15) HIV RNA (each center tested its own, as a reference entry criterion). 
+(16) Ultrasound of the abdomen. 
+(17) Chest X-rays. 
+(18) 12-lead electrocardiogram. 
+(19) Evaluation of inclusion/exclusion criteria. 
+(20) Combine medication records. 
+6.1.2 Visit 2 (-7d to 1d, baseline) 
+(1) Review and record of combined medications.  
+(2) Medication adherence education and assessment. 
+(3) Questioning and physical examination. 
+(4) Vital signs: body temperature, respiration, blood pressure and heart rate. 
+(5) 12-lead electrocardiogram. 
+(6) Routine blood test, blood biochemistry, routine urine test.  
+(7) Urine pregnancy test (women of childbearing age). 
+(8) CD4 cell count. 
+(9) HIV RNA (specimens retained for uniform testing in the central laboratory). 
+(10) Collect plasma for drug resistance test (retain specimens and send them to the central laboratory for uniform 
+testing if necessary). 
+(11) Evaluation of inclusion/exclusion criteria. 
+(12) Randomization to the group. 
+(13) Drug allocation. 
+6.1.3 Visit 3 (4w±3d) 
+(1) Review and record of combined medications. 
+(2) Review and record of adverse events.  
+(3) Medication adherence education and assessment. 
+(4) Questioning and physical examination.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+(5) Vital signs: body temperature, respiration, blood pressure and heart rate. 
+(6) 12-lead electrocardiogram. 
+(7) Routine blood test, blood biochemistry, routine urine test.  
+(8) CD4 cell count. 
+(9) HIV RNA (specimens retained for uniform testing in the central laboratory). 
+(10) Drug recovery and distribution. 
+6.1.4 Visit 4 (12w±4d) 
+(1) Review and record of combined medications. 
+(2) Review and record of adverse events.  
+(3) Medication adherence education and assessment. 
+(4) Questioning and physical examination. 
+(5) Vital signs: body temperature, respiration, blood pressure and heart rate. 
+(6) 12-lead electrocardiogram. 
+(7) Routine blood test, blood biochemistry, routine urine test.  
+(8) Urine pregnancy test (women of childbearing age). 
+(9) CD4 cell count. 
+(10) HIV RNA (specimens are kept for uniform testing in the central laboratory; at the same time, each center 
+tested itself once). 
+(11) PPK specimen collection (record the time of last meal and last medication before this visit and collect fasting 
+blood specimens on the same day and record the collection time, pending unified testing in the central 
+laboratory). 
+(12) Drug recovery and distribution. 
+6.1.5 Visit 5 (24w±6d) 
+(1) Review and record of combined medication use. 
+(2) Review and record of adverse events.  
+(3) Medication adherence education and assessment. 
+(4) Questioning and physical examination. 
+(5) Vital signs: body temperature, respiration, blood pressure and heart rate. 
+(6) 12-lead electrocardiogram.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+(7) Routine blood test, blood biochemistry, routine urine test. 
+(8) Urine pregnancy test (women of childbearing age).  
+(9) CD4 cell count. 
+(10) HIV RNA (specimens are kept for uniform testing at the central laboratory; at the same time, each center will 
+test once, and if HIV RNA ≥ 50 copies/mL at this visit, all specimens collected to detect viral load and 
+drug-resistant from the baseline to the 24-week visit will be sent to the central laboratory for testing together, 
+and the results of retested HIV RNA will be used as the standard to determine the virological response). 
+(11) Collect plasma for drug resistance test (retain specimens and send them to the central laboratory for uniform 
+testing if necessary). 
+(12) PPK specimen collection (record the time of last meal and last medication before this visit and collect fasting 
+blood specimens on the same day and record the collection time, pending unified testing in the central 
+laboratory). 
+(13) Drug recovery and distribution. 
+6.1.6 Visit 6 (36w±6d) 
+(1) Review and record of combined medications. 
+(2) Review and record of adverse events.  
+(3) Medication adherence education and assessment. 
+(4) Questioning and physical examination. 
+(5) Vital signs: body temperature, respiration, blood pressure and heart rate. 
+(6) 12-lead electrocardiogram. 
+(7) Routine blood test, blood biochemistry, routine urine test.  
+(8) Urine pregnancy test (women of childbearing age). 
+(9) CD4 cell count. 
+(10) HIV RNA (specimens retained for uniform testing in the central laboratory). 
+(11) PPK specimen collection (record the time of last meal and last medication before this visit and collect fasting 
+blood specimens on the same day and record the collection time, pending unified testing in the central 
+laboratory). 
+(12) Drug recovery and distribution. 
+6.1.7 Visit 8 (72w±12d)
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+(1) Review and record of combined medications. 
+(2) Review and record of adverse events.  
+(3) Medication adherence education and assessment. 
+(4) Questioning and physical examination. 
+(5) Vital signs: body temperature, respiration, blood pressure and heart rate. 
+(6) 12-lead electrocardiogram. 
+(7) Routine blood test, blood biochemistry, routine urine test. 
+(8) Urine pregnancy test (women of childbearing age).  
+(9) CD4 cell count. 
+(10) HIV RNA (specimens retained for uniform testing in the central laboratory). 
+(11) Drug recovery and distribution. 
+6.1.8 Visit 7 (48w±6d) 
+(1) Review and record of combined medications. 
+(2) Review and record of adverse events.  
+(3) Medication adherence education and assessment. 
+(4) Questioning and physical examination. 
+(5) Vital signs: body temperature, respiration, blood pressure and heart rate. 
+(6) 12-lead electrocardiogram. 
+(7) Routine blood test, blood biochemistry, routine urine test.  
+(8) Urine pregnancy test (women of childbearing age). 
+(9) CD4 cell count. 
+(10) HIV RNA (specimens retained for uniform testing in the central laboratory). 
+(11) PPK specimen collection (record the time of last meal and last medication before this visit and collect fasting 
+blood specimen on the same day and record the time of collection, pending unified testing in the central 
+laboratory). 
+(12) Collect plasma for drug resistance test (retain specimens and send them to the central laboratory for uniform 
+testing if necessary). 
+(13) Ultrasound of the abdomen. 
+(14) Chest X-rays.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+(15) Drug recovery and distribution. 
+(16) Fill out the 48-week research summary record form. 
+At the end of the 48-week study up to week 96, all subjects are no longer taking the placebo agent and may 
+choose to enter the extension study, continue treatment with ACC007 + 3TC + TDF or EFV + 3TC + TDF, or be 
+coordinated for transfer to the national free treatment system, depending on the subject’s wishes. 
+6.1.9 Visit 9 (96w±12d) 
+(1) Review and record of combined medications. 
+(2) Review and record of adverse events.  
+(3) Medication adherence education and assessment. 
+(4) Interview and physical examination. 
+(5) Vital signs: body temperature, respiration, blood pressure and heart rate. 
+(6) 12-lead electrocardiogram. 
+(7) Routine blood test, blood biochemistry, routine urine test.  
+(8) Urine pregnancy test (women of childbearing age). 
+(9) CD4 cell count. 
+(10) HIV RNA (specimens to be retained for uniform testing in the central laboratory). 
+(11) Ultrasound of the abdomen. 
+(12) Chest X-rays. 
+(13) Collect plasma for drug resistance test (retain specimens and send to the central laboratory for uniform testing 
+if necessary). 
+(14) Drug recovery. 
+(15) Fill out the Research Summary Record Form when leave the group. 
+6.2 Efficacy and Safety Assessment Indicators 
+6.2.1  General and physical examination 
+All subjects will be asked about demographic characteristics, medical history, medication compliance, general 
+condition (height, weight), vital signs including blood pressure, heart rate, temperature and respiration, and a complete 
+physical examination before enrollment. 
+Each visit point after enrollment: In addition to the above examination, we also need to observe the sensory, 
+digestive, cardiovascular, respiratory and neurological changes of the subjects after drug administration, ask about
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+adverse events and combined medications, and record them in detail. 
+6.2.2 Laboratory tests. 
+(1) Routine blood test: red blood cell count (RBC), hemoglobin (HGB), red blood cell ratio (HCT), mean red blood cell 
+ratio (MCV), mean red blood cell hemoglobin content (MCH), mean red blood cell hemoglobin concentration (MCHC), 
+platelet count (PLT), total white blood cell count, and sorted count (WBC, LYMPH, MONO, NEUT, EOS, BASO),etc. 
+(2) Routine urine test: pH, specific gravity (SG), urine glucose (U-GLU), urine protein (PRO), urine bilirubin (UBG), 
+bilirubin (BIL), urine white blood cell count (LEU), urine ketone bodies (KET), urine red blood cells (RBC),etc. 
+(3) Urine pregnancy test (only women of childbearing age tested),etc. 
+(4) Blood biochemical tests: alanine aminotransferase (ALT), aspartate aminotransferase (AST), glutamyl 
+aminotransferase (GGT), alkaline phosphatase (ALP), lactate dehydrogenase (LDH), creatine kinase (CK), serum 
+amylase (AMY), total bilirubin (TBIL), direct bilirubin (DBIL), blood glucose (Glu), blood uric acid (UA), urea 
+nitrogen (BUN), blood creatinine (CREA), cholesterol (CHOL), triglyceride (TG), total protein (TP), albumin 
+(ALB),etc. 
+(5) CD4 cell count. 
+(6) HIV-1 viral load measurement. 
+(7) Hepatitis B markers (HBV-M, including HBsAg, HBsAb, HBeAg, HBeAb, HBcAb). 
+(8) Hepatitis C virus antibody (anti-HCV). 
+(9) Syphilis titer (RPR titer). 
+(10) Urine test to confirm drug abuse (including morphine, methamphetamine, ketamine, 
+dimethylenedioxymethamphetamine, tetrahydrocannabinfenic acid, etc.).  
+(11) 12-lead electrocardiogram. 
+(12) Ultrasound of the abdomen. 
+(13) Chest X-ray examination. 
+6.2.3 Pharmacogenetic specimen collection 
+Pharmacogenic specimens from all subjects will be retained by sparse sampling method, and the population 
+pharmacokinetic characteristics and PK-PD and PK-AE correlations of ACC007 will be assessed after uniform testing. 
+ 
+Table 2 Pharmacogenetic Specimen Collection Schedule 
+Visiting Viewpoints  Study days/week Collection time
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+4 12W Fasting 
+5 24W Fasting 
+6 36W Fasting 
+7 48W Fasting 
+     Note: PK specimens will be collected at 12, 24, 36, and 48 week visits on an empty stomach and the time of PK collection will be recorded, along 
+with the time of last meal and last dose of medication.  
+6.3 Efficacy Indicators and Quality Control of Central Laboratory Tests 
+6.3.1 Detection of HIV viral load  
+Whole blood collected in accordance with the “SOP for Specimen Collection, Preparation, and Cryopreservation” 
+during the screening period and at 12 and 24 weeks of the study will be separated and prepared for plasma, and will be 
+tested by each research center. The test results at the screening period will be used as the inclusion criteria for subjects, 
+and the test results at 24 weeks will be used as the reference standard for assessing virological failure. 
+From the beginning of the baseline to the end of the study, each blood collection time should collect 10 mL of 
+whole blood from the subjects according to the SOP of Specimen Collection, Preparation, Freezing and Transfer, and 
+the plasma after separation and preparation should be divided into lyophilization boxes and stored in the refrigerator at 
+-80°C. The lyophilization boxes should be marked with the project name, lyophilization box number, and the range of 
+the sample corresponding to the random number. The top view of the specimen in the lyophilization box should be 
+filled in to find the specimen, and the collected specimens should be transferred to the central laboratory. The transfer 
+and testing of viral load specimens (HIV RNA Abbott) in the central laboratory should be performed in full compliance 
+with the SOP for transfer and testing of specimens to strictly control possible bias in this major efficacy index. 
+6.3.2  Detection of CD4 
+In -30d~-1d, -7d~1d, the CD4 cell count should be checked once each, and a total of two tests will be performed, 
+and the last test result will be used as the baseline value of CD4. Testing is required at each study center at each visit 
+time from 4 weeks to the end of the study. 
+6.3.3 Detection of PPK 
+At 12, 24, 36 and 48 weeks of the study, each blood collection time should collect 4.5 mL of whole blood 
+according to the SOP for PPK specimen collection, preparation, freezing and transfer, and the plasma after separation 
+and preparation should be stored in 3 portions in lyophilization boxes at -80°C in the refrigerator until the analysis test, 
+and avoid repeated freezing and thawing. The specimens collected should be transferred to the pharmacogenetic
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+specimen testing agency. The transfer and testing of PPK specimens by the pharmacogenetic specimen testing agency 
+should be carried out in full compliance with the SOP for the transfer and testing of specimens in the central laboratory 
+in order to strictly control the possible bias of this major efficacy index. 
+6.3.4 Genotypic drug resistance testing 
+At baseline and at 24 weeks, 48 weeks and 96 weeks of treatment, each blood collection time should collect 10 mL 
+of whole blood according to the SOP for collection, preparation, preservation and transfer of genotypic drug resistance 
+test specimens. After separation and preparation, the plasma should be stored in 3 portions in a lyophilization box at 
+-80°C until analysis and testing when necessary. The top view of the specimen in the lyophilization cassette can be used 
+to locate the specimen. 
+6.4 Efficacy Assessment  
+6.4.1 Primary endpoint indicators 
+z Percentage of subjects with HIV RNA levels <50 copies/mL at 48 weeks of treatment (RT-PCR 
+method), evaluated by Snapshot Approach[4]. 
+6.4.2 Secondary endpoint indicators 
+z Changes in HIV RNA log values at 48 and 96 weeks of treatment 
+z Percentage of HIV RNA levels ≤400 copies/mL at 48 and 96 weeks of treatment 
+z Percentage of subjects with HIV RNA levels <50 copies/mL at 96 weeks of treatment 
+z Changes in CD4 cell counts at 48 and 96 weeks of treatment 
+6.5 Safety Assessment 
+6.5.1 Clinical Safety Assessment 
+Subjects’ spontaneous reports or direct physician observation or non-induced questioning of subjects about adverse 
+events will be collected during the clinical trial and evaluated at 24, 48 and 96 weeks of treatment. 
+6.5.2 Laboratory Safety Assessment 
+The changes of routine blood test, routine urine test, blood biochemistry and electrocardiogram at 24, 48 and 96 
+weeks will be compared, and urine pregnancy test (only for women of childbearing age), abdominal ultrasound and 
+chest X-ray will be performed during the clinical trial to evaluate their safety. 
+6.6 PK/PD (PK/HIV RNA, PK/AE) Assessment 
+According to the population pharmacokinetic method, the analysis of drug PK/PD and PK/AE relationships will be
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+performed by sparse sampling to obtain blood concentrations with the main efficacy and safety indicators. 
+6.7 Medication Adherence Assessment 
+Adherence assessment (%) = actual number of medications/theoretical number of medications × 100%. 
+Medication adherence assessment: ACC007 or EFV and (3TC + TDF) will be calculated separately for 
+compliance. 
+This study required medication adherence of ≥90% and ≤110%.  
+7 Drug Safety Management 
+7.1 Develop a Drug Safety Management Plan 
+The drug safety vigilance department of the sponsor or its delegated institution will develop a drug safety 
+management plan based on GCP-related principles and clinical trial-related content (e.g., protocols, investigator 
+manuals, literature, etc.) that will document, describe, and define the various tasks of drug safety management as a 
+guide to the entire drug safety management process. The drug safety management plan should include: communication 
+plan, drug safety management time plan, drug safety management process, report review, and document maintenance. 
+7.2 Adverse Events 
+7.2.1 Definition of adverse event 
+An adverse medical event that occurs after a subject receives a drug, but is not necessarily causally related to 
+treatment. Adverse events include, but are not limited to: 
+z Abnormal laboratory test results. 
+z Clinically significant signs and symptoms. 
+z Changes in physical examination results. 
+z Allergies. 
+z Progression/exacerbation of pre-existing disease. 
+In addition, adverse events include signs or symptoms resulting from: 
+z Drug overdose. 
+z Discontinuation of medication. 
+z Drug abuse. 
+z Drug misuse. 
+z Drug-drug interactions.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+z Drug dependence. 
+7.2.2 Abnormal laboratory test results 
+The criteria for determining whether an abnormal objective finding should be reported as an adverse event are as 
+follows: 
+z The test result correlates with concomitant symptoms, and/or 
+z The test result requires additional diagnostic testing or therapeutic measures/surgical intervention, 
+and/or 
+z The test results lead to a change in the subject’s drug dose or discontinuation of the trial, the need for 
+additional concomitant medication, or other treatment, and/or 
+z The investigator or sponsor judged that the test result should be reported as an adverse event. 
+If it is only to repeat the examination of an abnormality, but does not meet any of the above conditions, it will not 
+be judged as an adverse event. Any abnormal test result that is judged to be an error is not required to be reported as an 
+adverse event. 
+7.2.3 Observation of adverse event 
+All observed or spontaneously reported adverse events must be tracked by investigators with sufficient 
+information to determine the consequences of the adverse events and assess whether they meet the criteria for serious 
+adverse events and require immediate reporting to appropriate personnel and departments. 
+For all adverse events, the investigator should also obtain sufficient information to clarify the cause of the adverse 
+event and to make an assessment of the cause of the adverse events. If the investigator believes that there is a causal 
+relationship between the trial drug and the adverse event, the adverse event must be followed until the adverse event or 
+its sequelae have resolved or stabilized at a level that the investigator considers acceptable. 
+7.2.4 Reporting period 
+From the time after the subject’s first dose of the trial drug until the last follow-up visit, the investigator shall 
+report all directly observed adverse events as well as subject voluntarily reported adverse events. In addition, each 
+subject will be asked questions about the adverse event. 
+All adverse events should be recorded on the adverse event page of the case report form, with adverse event 
+terminology and accurate medical terminology, and coded according to the MedDRA Code system. 
+7.2.5 Adverse event severity assessment 
+The investigators graded the adverse events according to the DAIDS AE grading scale (if an adverse event
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+occurred that is not covered by the DAIDS AE grading scale, please refer to CTCAE v5.0) into grades 1 to 5, where 
+grade 1 corresponds to mild, grade 2 corresponds to moderate, grade 3 corresponds to severe, grade 4 corresponds to 
+potentially life-threatening, and grade 5 corresponds to death. 
+A distinction should be made between the severity and seriousness of the adverse event, and a severe adverse 
+event may not be a serious adverse event. 
+7.2.6 Evaluation of the relationship between adverse events and trial drugs 
+The investigator must make an assessment of the cause of all adverse events (serious and non-serious). This 
+assessment is the investigator’s judgment of the likelihood that the test drug caused or was involved in causing the 
+adverse event. If the investigator is uncertain about the cause of the adverse event and does not know whether it was 
+caused by the trial drug, the event should be classified as “related to the trial drug”. If the investigator’s assessment is 
+“unknown cause but not related to the trial drug”, the event should be clearly documented in the trial record. 
+The relationship between clinical reactions and laboratory abnormalities and test drugs will be evaluated according 
+to the following five levels, the first three were counted as adverse reactions, and the incidence of adverse reactions 
+should be counted. 
+Definitely related  
+The reaction occurs in a reasonable chronological order of administration, is consistent with the type of reaction 
+known for the suspected drug, disappears after discontinuation of the suspected drug, and the subject’s clinical status or 
+other reasons are unlikely to produce the reaction. 
+Likely related 
+The reaction occurs in a reasonable chronological order of administration, is consistent with the type of reaction 
+known for the suspected drug, is significantly reduced after discontinuation of the suspected drug, and the subject’s 
+clinical status or other reasons are unlikely to produce the reaction. 
+Possibly related 
+The reaction occurs in a reasonable chronological order of administration, is consistent with the type of reaction 
+known for the suspected drug, and can be alleviated after stopping the suspected drug, but the subject’s clinical status or 
+other reasons may also produce the reaction. 
+Possibly unrelated 
+The reaction does not appear in a reasonable chronological order after administration, does not correspond well to 
+the type of reaction known for the suspected drug, does not alleviate after discontinuation of the suspected drug, the
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+subject’s clinical state or other causes may have produced the reaction, and the reaction is alleviated after improvement 
+of the disease state or elimination of other causes. 
+Definitely not related 
+The reaction does not occur in a reasonable time sequence after administration, does not correspond to the type of 
+reaction known for the suspected drug, the subject’s clinical state or other causes can produce the reaction, and the 
+reaction is reduced after the disease state improves or other causes are eliminated. 
+7.3 Serious Adverse Events 
+7.3.1 Definition of serious adverse event (SAE) 
+A serious adverse event is any undesired medical event that occurs at any dose, including: 
+z Results in death. 
+z Is life-threatening (The subject was at risk of death at the time of the event). 
+z Requires inpatient hospitalization (other than hospitalization due to social factors) or prolongation of 
+existing hospitalization. 
+z Results in persistent or significant disability/incapacity. 
+z Is a congenital anomaly/birth defect. 
+z Other important medical events: Medical or scientific judgment should be exercised in deciding 
+whether SAE reporting is appropriate in other situations such as important medical events that may not be 
+immediately life-threatening or result in death or hospitalization but may jeopardize the participant or may 
+require medical or surgical intervention to prevent one of the other outcomes listed in the above definition. 
+These events should usually be considered serious. 
+Medical and scientific judgment should be exercised in determining whether an event is a medically significant 
+event. An important medical event, although not necessarily immediately life-threatening and/or resulting in death or 
+hospitalization, should be reported as a serious adverse event if it is determined to be potentially harmful to the subject 
+and requires medical intervention to prevent the occurrence of any of the consequences in the definition of serious 
+adverse event above. 
+7.3.2 Serious adverse event reporting 
+If a serious adverse event occurs during the trial, regardless of whether it is related to the trial treatment, 
+appropriate treatment measures must be taken immediately, along with reporting by telephone, faxing the serious 
+adverse event report form to the principal investigator within 24 hours of being informed.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+If a serious adverse event occurs, the investigator should report the event to the sponsor, the drug clinical trial 
+institution and ethics committee of the study center, the State Administration of Market Administration (formerly 
+CFDA), the provincial Food and Drug Administration, the National Health and Family Planning Commission, the 
+DSMB, and the pharmacovigilance department of the sponsor or its delegated institution within 24 hours of becoming 
+aware of the event, and the investigator must sign and date the report.  
+If a serious adverse event occurs that is fatal or life-threatening, the appropriate personnel and departments should 
+be notified immediately, regardless of how much information on this adverse event has been obtained. This time limit 
+also applies to additional information about a previously reported serious adverse event. If the investigator is unable to 
+learn of the serious adverse event in a timely manner (e.g., if the patient is seen in an outside hospital), but should 
+report and document when he/she first learned of the adverse event within 24 hours of becoming aware of it. 
+For all serious adverse events, it is the responsibility of the investigator to track and provide information to the 
+appropriate personnel and departments in accordance with the reporting timelines specified above. This information 
+should be more detailed than the information recorded on the adverse event report form. Typically, a detailed 
+description of the adverse event should be included so that a complete medical assessment of the event can be made and 
+an independent determination of the probable cause can be made. In addition, information on other possible causes, 
+such as concomitant medications and concomitant diseases, must also be provided. In the case of death of a subject, the 
+autopsy report, if available, must be forwarded to the appropriate personnel and authorities as soon as possible. 
+The drug safety alert department of the sponsor or its delegated agency shall report the serious adverse event 
+report to the State Administration of Market Supervision (formerly CFDA), the National Health and Family Planning 
+Commission, the Provincial Food and Drug Administration, and the Provincial Health and Family Planning 
+Commission within the 7-day (death or life-threatening SAE)/15-day (other SAE) period after receipt of the serious 
+adverse event report form. 
+Each serious adverse event reported by the investigator during the clinical trial is to be reviewed by the sponsor’s 
+pharmacovigilance staff in a timely manner to determine if it is a suspected and unexpected serious adverse reaction 
+(SUSAR). If a SUSAR is judged to be a fatal/life-threatening event, it will be sent to the pharmacovigilance department 
+of the sponsor 2 business days prior to the reporting deadline (7 calendar days), and the remaining SUSARs will be sent 
+to the pharmacovigilance department of the sponsor 2 business days prior to the reporting deadline (15 calendar days), 
+in accordance with ICH “E2B(R3): Management of Clinical Safety Data: Transmission of Individual Safety Reports”, 
+and the relevant terms should be coded using the ICH “M1: Medical Dictionary for Regulatory Activities (MedDRA)”.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+SUSAR does not include: 
+（1）Non-serious adverse events. 
+（2）Serious adverse event determination may or may not be related to the trial drug ACC007. 
+（3）Serious but expected adverse reactions. 
+（4）Should remain blind as much as possible, but in the broken blind state, can be judged as definitely related, 
+likely related or possibly related to EFV, 3TC, TDF, and meet the expected adverse reactions of EFV, 3TC and TDF. 
+（5）AIDS and AIDS-related complications. 
+The CRA is responsible for properly recording and maintaining all SAEs, regularly verifying and updating them, 
+and communicating with the investigators to urge them to follow up the SAEs on time. The CRC enters the SAEs and 
+report tracking data into the EDC system in a timely manner, and the data management agency regularly summarizes 
+and reports them to the sponsor, who sends them to the CRA for uniform reporting to the investigators, drug clinical 
+trial institutions and ethics committees of each participating center. 
+7.4 SAE Reports Contact Information 
+Table 3 SAE Reporting Contact Information Form 
+Participant  Unit Name Contact 
+person Contact 
+number Reporting 
+method/email/address 
+Drug 
+regulatory 
+authorities1 State Administration of Market 
+Supervision and Administration 
+(former CFDA) NA 010-68313344  Fax: 010-88363228 / 
+Address: Building 2, No. 26 
+Xuanwumen West Street, 
+Xicheng District, Beijing, 
+100053 
+National Health and Family Planning 
+Commission NA 010-68792776  Fax: 010-68792734 / 
+Address: No.1 Xizhimenwai 
+South Road, Xicheng District, 
+Beijing, 100044, P.R. China 
+Research 
+Center1 Beijing Youan 
+Hospital, Capital 
+Medical 
+University Principal 
+Investigator Wu Hao 010-83997962  E-mail.whdoc@sina.com  
+Address: No.8 Xitoujiao, 
+Youanmenwai, Fengtai 
+District, Beijing
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+Drug clinical trial 
+institutions Wang Meixia  010-83997181  wangmeixiad@163.com 
+Ethics 
+Committee Sheng Aijuan  010-83997028  youanlunli@126.com 
+DSMB Tangdu Hospital 
+of Xi’an Fourth 
+Military Medical 
+University President Sun Yongtao  029-84777916  yongtaos@hotmail.com 
+Applicant Jiangsu Aidea Pharmaceutical Co., 
+Ltd. Shen 
+Xiaoning 18705185597  chris.sheng@wmic.com.cn 
+Pharmacovig
+ilance 
+department Beijing Zhiji Pharmaceutical 
+Information Consulting Co., Ltd. Ou Yi 13717870071  ouyi2013@163.com 
+Note: 1: Provincial drug supervision and management departments and health planning committees, other research 
+centers to report contact information for details see drug safety management plan. 
+7.5 Consistency Verification of Serious Adverse Events 
+From the enrollment of the first subject, the consistency of SAE reporting records with the safety data recorded in 
+the clinical trial data of EDC is verified according to the drug safety management plan data management plan, and 
+further investigation and follow-up reports are required to ensure that no SAE is missed or misreported. 
+7.6 Pregnancy Incident Reporting 
+In the event of pregnancy in the subject or the subject’s sexual partner, the investigator must report the pregnancy 
+to the sponsor or its delegated safety manager within 24 hours of being informed and deal with it accordingly according 
+to the drug safety management plan established for this project. 
+8 Quality Control 
+8.1 Monitoring, Audit and Inspection 
+z Monitoring: The monitor will visit the study center regularly to monitor the trial, including checking 
+case report forms, verifying original records, and conducting and recording drug counts. The monitor will 
+also observe the progress of the trial and discuss any problems with the investigator in order to resolve
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+them in a timely manner. 
+z Audit: The sponsor will designate a person to conduct an audit at each research center. 
+z Inspection: The State Administration of Market Supervision and Administration may conduct 
+inspection of this test. 
+8.2 Identification of Subjects  
+All screened subjects will be registered by number. 
+8.3 Retention of Original Records 
+According to GCP requirements, the study centers should retain all subject information for a period of 5 years after 
+the trial is fully completed. If the trial drug is approved for marketing, the retention period is 5 years after the trial drug 
+is approved for marketing. 
+8.4 Internal Quality Control and Quality Assurance 
+To ensure compliance with the requirements of this trial protocol and the GCP, the sponsor will commission the 
+CRO monitor to conduct screening, enrollment sites, and periodic monitoring visits during the course of the trial. The 
+investigators and research institutions should allow direct access to the original documents by the monitors and 
+inspectors to complete the verification. 
+The IEC and/or the sponsor’s quality assurance auditors may verify the raw data. 
+The investigator and relevant personnel should be involved throughout the monitoring visits, possible audits and 
+inspections. 
+In addition, the internal quality control officer of the research agency will conduct occasional random checks on 
+the whole process and data information of this test to ensure that this trial is conducted in strict accordance with the trial 
+protocol. 
+9 Data Management  
+9.1 Develop a Data Management Plan 
+The data manager develops a data management plan based on GCP-related principles and clinical trial-related 
+elements (e.g., plan, CRF draft, actual situation of the project, etc.). The data management plan will document, describe 
+and define the data management tasks to guide the entire data management process. The data management plan should 
+include: data management process, eCRF design, data entry and challenge management, external data management,
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+database locking, document retention, etc. 
+9.2 eCRF Design 
+The eCRF design will be carried out according to the research proposal. After the eCRF design is completed, a 
+system test is required. The eCRF after the test is completed and approved by the sponsor will be put into operation. 
+9.3 Data Entry 
+The eCRF data are obtained from the original records and are entered into the EDC by the investigator or 
+authorized personnel in a timely manner according to the instructions for completing the eCRF to ensure that the data 
+are true, accurate, complete, and timely, and that they are consistent with the data in the subject’s original medical 
+record. The investigator’s EDC user name and password are for the exclusive use of the investigator and should not be 
+disclosed, and should not be used by others to enter data on behalf of the investigator. 
+9.4 User Management 
+All users accessing the EDC are required to fill out a user account application form, and after the PM confirms 
+approval, the project administrator user application form creates the roles of investigator, research assistant (CRC), etc. 
+and grants different permissions to access the EDC. e.g., investigators in each center can only see the content of their 
+own center and have the right to revise data, and sponsors are limited to browsing the EDC; monitors can read the EDC 
+data in each center and have no data revision The supervisor can read the EDC data of each center without data revision 
+rights, but can issue questions. 
+All users who access EDC need to fill in the account application form. After confirmation and approval by PM, the 
+project administrator will create roles such as researcher and research assistant (CRC) and grant different permissions 
+to access EDC. Among them, the researchers of each center can only see the content of their own center and have the 
+right to revise the data. The sponsor is limited to browsing the EDC. The monitor can read the EDC data of each center 
+and ask questions, but has no data revision authority. 
+9.5 Data Verification 
+On-site verification of source data: The supervisor performs consistency checks between eCRF data and source 
+data, and can send questions if there are problems. 
+Data verification plan: The data manager develops the verification plan based on the program and eCRF. Online 
+verification program is configured according to the data verification plan, and data queries are automatically generated 
+by the system, while queries can also be sent manually during manual data checking.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+Data questions and answers: Questions come from system questions of EDC logic verification, and manual 
+questions such as auditors and data administrators, which need to be answered by researchers in a timely manner. Data 
+administrators and monitors close the queries and can reissue them if necessary until the data is “clean”. 
+9.6 Electronic Signature 
+After data entry is completed and no data doubts after on-site verification of source data, the investigator conducts 
+electronic signature review and confirmation. If there are data revisions after the signature, a new signature is required. 
+9.7 Database Locking 
+After the database lock record is signed by the principal investigator, sponsor, statistical analyst and data manager, 
+the data manager performs the database locking. 
+9.8 Data Management File Retention and Data Transfer 
+The project data manager shall maintain data management related documents as required and transfer the locked 
+database to the statistical analyst for statistical analysis. 
+10 Statistical Analysis 
+10.1 Hypothesis Testing 
+H0 (null hypothesis): P1-P2 ≤ -0.1, H1 (alternative hypothesis): P1-P2 > -0.1 
+P1 is the viral load suppression rate in the experimental group, and P2 is the viral load suppression rate in the 
+control group. Viral load suppression rate is that the proportion of subjects achieving HIV RNA < 50 copies/mL. 
+10.2 Analysis Sets 
+Full analysis set (FAS): a collection of all subjects who are randomized into the study and have received at least 
+one dose of study drug. When the primary efficacy indicators are missing, the previous result will be carried forward 
+according to the intentional analysis. Secondary efficacy indicators were will be according to the actual data in the FAS. 
+Per-protocol analysis set (PPS): a data set generated from subjects who are fully compliant with the trial protocol. 
+Adherence includes treatment received, availability of index measurements for the primary endpoint, and no major 
+violations of the trial protocol. The PPS will be used for the primary efficacy analyses. 
+Safety data set (SS): received at least one treatment and have the actual data recorded by the safety index after 
+treatment. The incidence of adverse reactions will be used as the denominator for the number of SS cases. 
+10.3 Statistical Analysis Methods
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+10.3.1 48 weeks after treatment 
+The new drug application shall be based on the 48-week clinical study data summary report of the confirmatory 
+trial. 
+10.3.1.1 Case enrollment analysis 
+List the number of cases screened, enrolled, and completed overall and at each center, and determine four data sets 
+for analysis (FAS, PPS, SS). 
+List the number of cases screened overall and by center, the number of cases that failed screening, and their causes 
+and rates.  
+List the number of cases that were not included in the analysis set and their reasons. 
+Calculate the number of cases enrolled, completed the trial, and terminated the trial early, as well as their reasons 
+and rates. 
+Draw the flow chart of subject distribution. 
+List the number and percentage of subjects with mild and severe breaches/deviations from the protocol. 
+10.3.1.2 Demographic information and baseline analysis 
+Statistical description of demographic data and other baseline characteristics. 
+z Continuous variables will calculate means, standard deviations, quartiles, minimum and maximum values. 
+z Enumeration data and ranked data will calculate frequency and composition ratio. 
+z All data will be analyzed using actual data in FAS, and baseline data of efficacy indicators will be added 
+the PPS analysis. 
+10.3.1.3 Analysis of medication adherence and coadministration 
+The actual data in FAS and PPS will be used for the analysis. 
+Medication adherence: 
+z Calculate the percentage of subjects with medication adherence in the range of 90-110%. 
+z Drug exposure dose. 
+z Duration of drug exposure. 
+Combination of medications: 
+z Calculate the percentage of subjects with combined medications. 
+z Combined medication ATC classification analysis.
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+z Combinations are divided into pre-treatment combinations and post-treatment combinations, coded 
+according to WHO Drug. 
+10.3.1.4 Efficacy analysis 
+Analysis of the primary efficacy indicators: 
+z The percentage of subjects with viral load less than 50 copies/mL after 48 weeks of treatment will be analyzed 
+by PPS and FAS at the same time. With baseline HIV RNA <100000 copies/mL and ≥100000 copies/mL as 
+independent variables, and viral load suppression rate as response variable, logistic regression analysis will be 
+performed to compare the differences between groups as well as calculate its two-sided 95% confidence interval. 
+Then, whether the experimental group is non-inferior to the control group will be judged according to a pre-set 
+non-inferiority criterion of 10%. According to the Snapshot Approach recommended by FDA, HIV RNA 
+missing data during the window period will be treated as no virological response and considered as HIV RNA ≥ 
+50 copies/mL. 
+Analysis of secondary efficacy indicators: 
+z The difference between the log value of HIV RNA after 48 weeks of treatment and the baseline value will 
+be analyzed by covariance analysis (ANCOVA) with the group as a fixed effect and the baseline value as a 
+covariate. PPS and FAS analyses will be performed at the same time. 
+z The percentage of subjects with HIV RNA ≤ 400 copies/mL after 48 weeks of treatment will be also 
+analyzed by PPS and FAS. With baseline HIV RNA <100000 copies/mL and ≥100000 copies/mL as 
+independent variables, and viral load suppression rate as response variable, logistic regression analysis will 
+be performed to compare the differences between groups. According to the Snapshot Approach 
+recommended by FDA, HIV RNA missing data during the window period will be treated as no virological 
+response and considered as HIV RNA ≥ 50 copies/mL. 
+z The difference between the CD4 cell count after 48 weeks of treatment and the baseline value will be 
+analyzed by covariance analysis (ANCOVA) with group as a fixed effect and baseline value as a covariate. 
+CD4 cell counts will be carried forward with the previous results when they were missing at the window 
+period, 24 weeks and 48 weeks as recommended by the FDA. PPS and FAS analyses will be performed at 
+the same time. 
+10.3.1.5 Safety Analysis
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+z SS will be used for safety analysis. 
+z Adverse events will be coded according to the ICH International Dictionary of Medical Terms (MedDRA 
+21.0, Medical Dictionary for Regulatory Activities). 
+z Calculate the incidence of Treatment Emergent Adverse Event (TEAE)/reactions, serious adverse 
+events/reactions, and adverse events/reactions leading to shedding during treatment. 
+z List the number and frequency of adverse events/reactions, significant adverse events/reactions, serious 
+adverse events/reactions, adverse events/reactions leading to shedding by SOC and PT during treatment, 
+and calculate the incidence. 
+z List the number and frequency of adverse events/reactions, significant adverse events/reactions, serious 
+adverse events/reactions, adverse events/reactions leading to shedding by SOC and PT during treatment 
+according to different severity, and calculate the incidence. 
+z List a detailed list of various adverse events/reactions, significant adverse events/reactions, serious adverse 
+events/reactions, and adverse events/reactions leading to shedding. 
+z List the cross-tabulation of laboratory and ECG indices for clinical significance determination before and 
+after medication administration. 
+z List cases of abnormal laboratory, electrocardiogram, and physical examination indicators and clinical 
+explanations after drug administration. 
+z Vital signs actual measurements change over time. 
+10.3.2 96 weeks after treatment 
+For subjects entering the extension study, the efficacy analysis will be performed using FAS and the safety analysis 
+will be performed using SS. The analysis includes efficacy, safety, and adherence to drug administration. Methods same 
+as 48 weeks. 
+10.3.3 PK/PD (PK/HIV RNA, PK/AE) analysis 
+See the PK/PD analysis plan for details. 
+10.4 Statistical Software and General Requirements 
+SAS 9.4 software will be used for analysis. 
+All statistical tests will be performed using a two-sided test, and P values less than or equal to 0.05 would be 
+considered statistically significant. 
+Unless otherwise specified, the decimal places of the minimum and maximum values are consistent with the
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+original data recorded in the database, the decimal places of the mean and quartiles are retained one decimal place more 
+than the original data, and the standard deviation is retained two decimal places more than the original data. The 
+maximum number of decimal places for all statistical data is not more than four. 
+Percentage (%): 1 decimal place is retained and the second place is rounded off, e.g. 52.34% is recorded as 52.3%. 
+11 Data Retention 
+11.1 Electronic Data Recording 
+In accordance with the EDC system, eCRF will be used as the data collection method for this study. 
+It is the responsibility of the investigator to ensure timely completion, verification and approval of the eCRF. 
+eCRFs must have the electronic signatures (i.e., account passwords) of authorized investigators. These electronic 
+signatures are to certify that the information recorded in the eCRF is authentic. It is the ultimate responsibility of the 
+investigator to ensure the accuracy and authenticity of all clinical and laboratory data recorded in the eCRF at all times. 
+11.2 File Preservation 
+The subject’s original file, the subject’s file recorded by the investigators, will be kept at the study center. 
+To ensure evaluation and/or audit by pharmacovigilance authorities or sponsors, investigators maintain files that 
+include the identity of all subjects enrolled in the trial (with adequate information linked to the file, e.g., study medical 
+and/or hospitalization records), all original informed consents, original documentation, and detailed records of 
+treatment. The investigator should maintain the file for the longest period of time required therein, as agreed in the 
+regulations or clinical trial protocol. 
+12 Trial Summary 
+The clinical trial data of each center will be summarized and uniformly analyzed by the statistical agency to form a 
+statistical report. 
+The summary form will be completed by the Phase III clinical trial sub-center. 
+The principal investigator of the group leader agency will complete the clinical trial summary report in accordance 
+with the statistical report and be audited by the National Center for Clinical Trial Evaluation of Pharmaceuticals, which 
+will be stamped with the official seal and be handed over to the sponsor after approval. 
+13 DSMB Responsibilities and Program Modifications 
+13.1 DSMB Responsibilities
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+To maximize the protection of subjects’ interests and ensure the validity and integrity of the data, the sponsor 
+established the Data and Safety Monitoring Boards (DSMB) for clinical trials and formulated the DSMB Charter for 
+this trial in accordance with WHO guidelines. The DSMB Charter ensures that the DSMB can provide an independent, 
+valid, and timely review of data and make decisions without bias during the study. DSMB responsibilities are as 
+follows: 
+(1) Monitoring study execution 
+z Overall and center-by-center enrollment rates, noncompliance, poor-adherence, program violations, 
+and disengagement. 
+z Data integrity and timeliness. 
+z The degree of agreement between the study center’s assessment of the event and the centralized 
+assessment. 
+z Enrollment in important subgroups: HIV RNA <100000 copies/mL and ≥100000 copies/mL. 
+(2) Review of clinical safety data 
+z All Grade 3 or higher adverse events (as determined by the NIH DAIDS AE grading scale) 
+z SAE. 
+z All adverse events with an incidence >2%. 
+(3) Review of clinical efficacy data 
+(4) Recommendations to sponsors and principal investigators 
+z Notification of adverse events and serious adverse events. 
+z Suggested changes that should be made to the study protocol. 
+z Recommendations to suspend or terminate a study. 
+13.2 Program Modification 
+After this protocol has been approved by the Ethics Committee, the DSMB has the right to propose changes to the 
+study protocol to the sponsor and the principal investigator, after which the sponsor and the principal investigator of the 
+responsible agency will write the revised protocol and submit it to the Ethics Committee for approval before it can be 
+implemented. 
+14 Contact Address and Phone Number of the Sponsor and Each Study Center 
+1) Sponsor 
+Jiangsu Aidea Pharmaceutical Co., Ltd..
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+Address: No.2, Liuzhuang Road, Ganjiang District, Yangzhou City, China. Postcode: 25008 
+Tel: 0514-87530666 Fax: 0514-87752666 
+ 
+2) Group Leader Agency 
+01 Beijing Youan Hospital, Capital Medical University 
+Address: No.8 Xitoujiao, Youanmenwai, Fengtai District, Beijing, China. Postcode: 100069 
+Tel: 010-83997962 Fax: 010-63057513 
+ 
+3) Participating Agencies 
+02 Beijing Ditan Hospital, Capital Medical University  
+Address: No. 8, Jingshun East Street, Chaoyang District, Beijing, China. Postcode: 100015  
+Tel: 010-84322581 Fax: 010-84322581 
+ 
+03 Guangzhou Eighth People’s Hospital 
+Address: No. 627 Dongfeng East Road, Guangzhou, China. Postcode: 510060 
+Tel: 020-83822586 Fax: 020-83828329  
+ 
+04 Infectious Disease Hospital of Henan Province  
+Address: No.29 Jingguang South Road, Jinshui District, Zhengzhou City, Henan Province, 
+China. Postcode: 450061 
+Tel: 0371-60331665 Fax: 0371-60331665 
+ 
+05 The First Hospital of Changsha  
+Address: No.311 Yingpan Road, Kaifu District, Changsha, Hunan Province, China. Postcode: 
+450061 
+Tel: 0731-82223156 Fax: 0731-82223156 
+ 
+06 Chongqing Public Health Medical Center  
+Address: No.109, Glorious Hill Conservation Road, Shapingba District, Chongqing, P.R. 
+China. Postcode: 400036 
+Tel: 023-65503066 Fax: 023-65503066 
+ 
+07 The Second Hospital of Nanjing
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+Address: No.1 Rehabilitation Road, Tangshan Street, Jiangning District, Nanjing, China. 
+Postcode: 211113 
+Tel: 025-85091722 Fax: 025-85091722 
+ 
+4) Pharmacogenetic Analysis and Testing Agency  
+Chinese Academy of Sciences Shanghai Institute of Materia Medica  
+Address: 501 Haike Road, Shanghai, China. Postcode: 201210 
+Tel: 021-50800738 Fax: 021-50800738 
+ 
+5) Data Management Agency 
+Beijing Zhiji Pharmaceutical Information Consulting Co., Ltd. 
+Address: 01-312, 8F, No.18 Zhongguancun Street, Haidian District, Beijing, China.   
+Postcode: 100190 
+Tel: 010-58648971 Fax: 010-58648971 
+ 
+6) Statistical Analysis Agency 
+Beijing Bozhiyin Technology Co., Ltd. 
+Address: Room 2-2209, Timesail Building, No.15 West Majiapu Road, Beijing, China. 
+Postcode: 100068 
+Tel: 010-67587407 Fax: 010-6845187 
+ 
+7) Clinical Trial Monitoring Agency  
+Beijing Co-CRO Medical Development Co., Ltd. Address: Room 1288, Red Building, No.46 
+Dongsi West Street, Beijing, China. Postcode: 100711 
+Tel: 010-85116590 Fax: 010-85116590 
+ 
+15 References 
+[1] Li H, Zhang FJ, Lu HZ, et al. Expert consensus on the management of patients with HIV infection co-infected with chronic kidney 
+disease[J]. China AIDS STD, 2017(6):578-580. 
+[2] U.S. Department of Health and Human Services, National Institutes of Health, National Institute of Allergy and Infectious Diseases, 
+Division of AIDS. Division of AIDS (DAIDS) Table for Grading the Severity of Adult and Pediatric Adverse Events, Corrected Version 
+2.1. [July 2017].
+
+ADYY-ACC007-301 Clinical Study Protocol 
+ 
+Version number: V2.0 Version date: 20181023 
+  
+[3] Martins M, Cahn P E, Lopardo G D, et al. Doravirine versus ritonavir-boosted darunavir in antiretroviral-naive adults with HIV-1 
+(DRIVE-FORWARD): 48- week results of a randomised, double-blind, phase 3, non-inferiority trial[J]. Lancet Hiv, 2018. 
+[4] FDA, Guidance for Industry Human Immunodeficiency Virus-1 Infection: Developing Antiretroviral Drugs for Treatment, 2013.
