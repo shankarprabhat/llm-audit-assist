@@ -1,8 +1,9 @@
 import chromadb
-from langchain.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 from sentence_transformers import CrossEncoder
+import os
 
 # Load a pre-trained cross-encoder model
 reranker_model = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
@@ -11,15 +12,17 @@ reranker_model = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
 client = chromadb.PersistentClient(path="./chroma_db")
 collection_name = "pdf_documents_med"
 
-# delete the old collection
-if collection_name in client.list_collections():
-    client.delete_collection(name=collection_name)
+# # delete the old collection
+# if collection_name in client.list_collections():
+    # client.delete_collection(name=collection_name)
 
 collection = client.get_or_create_collection(name=collection_name,metadata={"hnsw:space": "cosine"})  # cosine, l2
 
 # Initialize embedding model
 # embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
-embedding_model = SentenceTransformer('NeuML/pubmedbert-base-embeddings')
+# embedding_model = SentenceTransformer('NeuML/pubmedbert-base-embeddings')
+# embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2") # Or your chosen embedding model
+embedding_model = SentenceTransformer("all-mpnet-base-v2") # Or your chosen embedding model
 # Or to use S-PubMedBert-MS-MARCO:
 # embedding_model = SentenceTransformer('pritamdeka/S-PubMedBert-MS-MARCO')
 
@@ -30,8 +33,6 @@ embedding_model = SentenceTransformer('NeuML/pubmedbert-base-embeddings')
 # COLLECTION_NAME = "pdf_documents_hf"
 # EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2" # Or another suitable HF model
 # LLM_MODEL_NAME = "google/flan-t5-large" # Example LLM from HF for generation
-
-desired_way = 'pipeline'
 
 # --- Initialize Components ---
 # client = chromadb.PersistentClient(path=PDF_PERSIST_DIR)
@@ -47,7 +48,8 @@ class Generate_LLM_Reponse:
 
     def generate_llm_answer_hf_pipeline(self, question,context):
         # from langchain.llms import HuggingFacePipeline
-        from langchain_community.llms import HuggingFacePipeline
+        # from langchain_community.llms import HuggingFacePipeline
+        from langchain_huggingface import HuggingFacePipeline
         from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
         print('\nquestion: ', question)
         print('context: ', context)
@@ -55,13 +57,14 @@ class Generate_LLM_Reponse:
 
         # Load the tokenizer and model directly (similar to the direct Transformers example)
         model_name = "google/flan-t5-large"
+        model_name = "google/flan-t5-base"
         llm_tokenizer = AutoTokenizer.from_pretrained(model_name)
         llm_model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
         # Create a Hugging Face pipeline for text generation
-        # pipeline = pipeline("text2text-generation", model=llm_model, tokenizer=llm_tokenizer, max_length=200)
+        pipeline = pipeline("text2text-generation", model=llm_model, tokenizer=llm_tokenizer, max_length=200)
 
-        pipeline = pipeline("text2text-generation", model=llm_model, tokenizer=llm_tokenizer)
+        # pipeline = pipeline("text2text-generation", model=llm_model, tokenizer=llm_tokenizer)
         # pipeline = pipeline("summarization", model=llm_model, tokenizer=llm_tokenizer)
 
         # This one doesnt work well
@@ -74,15 +77,16 @@ class Generate_LLM_Reponse:
         prompt = f"context: {context}\nquestion: {question}\nanswer:"
         
         # create a prompt with example
-        example_question = "How many enzymes are encoded by HIV Pol gene"
-        example_answer = "The HIV Pol gene encodes three enzymes (with four enzymatic activities): protease, reverse transcriptase and integrase."
+        # example_question = "How many enzymes are encoded by HIV Pol gene"
+        # example_answer = "The HIV Pol gene encodes three enzymes (with four enzymatic activities): protease, reverse transcriptase and integrase."
         
-        example_question = "Name a Project Leader in this report"
-        example_answer = "One of the project leader is Named Chen Xiaoyan"
+        # example_question = "Name a Project Leader in this report"
+        # example_answer = "One of the project leader is Named Chen Xiaoyan"
         
-        prompt = f"context: {context}\n example_question: {example_question} \nexample_answer: {example_answer}\nquestion: {question}\nanswer:"
+        # prompt = f"context: {context}\n example_question: {example_question} \nexample_answer: {example_answer}\nquestion: {question}\nanswer:"
+        prompt = f"context: {context}\n question: {question}\n Answer the question based on the document of the text:"
         
-        answer = llm(prompt)
+        answer = llm.invoke(prompt)
         # print('answer before strip: ', answer)
         return answer.strip()
 
@@ -115,12 +119,40 @@ class Generate_LLM_Reponse:
         return answer.strip()
 
     def generate_llm_answer_hf_hub(self, question, context):
-        from langchain.llms import HuggingFaceHub
+
+        # from langchain_community.llms import HuggingFaceEndpoint      
+        from langchain_huggingface import HuggingFaceEndpoint
+
+        HF_TOKEN = os.getenv("HF_TOKEN")
+        # os.environ["HUGGINGFACEHUB_API_TOKEN"] = HF_TOKEN
+        # HUGGINGFACEHUB_API_TOKEN = HF_TOKEN
+        
 
         """Generates an answer using a Langchain HuggingFaceHub LLM."""
-        llm = HuggingFaceHub(repo_id="google/flan-t5-large", model_kwargs={"temperature": 0.5, "max_length": 200})
-        prompt = f"context: {context}\nquestion: {question}\nanswer:"
-        answer = llm(prompt)
+        # llm = HuggingFaceEndpoint(repo_id="google/flan-t5-large", huggingfacehub_api_token=HF_TOKEN) # model_kwargs={"temperature": 0.5, "max_length": 200},
+        # prompt = f"context: {context}\nquestion: {question}\nanswer:"
+        # answer = llm.invoke(prompt)
+
+        from langchain.chains import LLMChain
+        from langchain_core.prompts import PromptTemplate
+
+        repo_id="google/flan-t5-large"
+        # repo_id = "mistralai/Mistral-7B-Instruct-v0.2"
+
+        template = """Question: {question} Answer: Let's think step by step."""
+
+        prompt = PromptTemplate.from_template(template)
+
+        llm = HuggingFaceEndpoint(
+            repo_id=repo_id,
+            max_length=128,
+            temperature=0.5,
+            huggingfacehub_api_token=HF_TOKEN,
+            task="text2text-generation"
+        )
+        llm_chain = prompt | llm
+        answer = llm_chain.invoke({"question": question})
+
         return answer.strip()
 
 
@@ -130,11 +162,12 @@ def generate_pdf_id(pdf_path):
     return os.path.basename(pdf_path)
 
 def check_if_pdf_exists(pdf_id):
-    """Checks if a PDF ID exists in the ChromaDB collection."""
+    """Checks if a PDF ID exists in the ChromaDB collection.""" 
     results = collection.get(
         where={"pdf_id": pdf_id},
         limit=1  # We only need to find one
     )
+    # print('results for document search: ', results)
     return len(results["ids"]) > 0
 
 def load_and_embed_pdf(pdf_path, pdf_id):
@@ -191,25 +224,39 @@ def rerank_documents(question: str, documents: list[str], reranker: CrossEncoder
     return [doc for doc, score in ranked_documents[:top_n]]
 
 
-def answer_question(pdf_id, question, desired_way, chunks):
+def answer_question(pdf_id, question, desired_way, chunks=None):
     """Answers a question based on the content of a specific PDF in ChromaDB."""
     question_embedding = embedding_model.encode([question])[0]
 
     results = collection.query(
         query_embeddings=[question_embedding],
-        n_results=5,  # Number of relevant chunks to retrieve
+        n_results=3,  # Number of relevant chunks to retrieve
         where={"pdf_id": pdf_id}  # Filter by the specific PDF
         # distance="l2" # Uncomment to try L2 distance
-    )
+    )    
+
+    reranking = True
+    if reranking is True:
+        if results: # and results['documents']:
+            retrieved_documents = results['documents'][0]
+            # print("Retrieved Documents:", retrieved_documents)s
+
+            # Rerank the retrieved documents
+            top_ranked_context = rerank_documents(question, retrieved_documents, reranker_model, top_n=2)
+
+            print("Top Ranked Context Chunks:")
+            for chunk in top_ranked_context:
+                print(chunk[:100] + "...")
     
     
-    hybrid_search = True
+    hybrid_search = False
     if hybrid_search is True:    
-        from langchain.vectorstores import Chroma
-        from langchain.retrievers import BM25Retriever, EnsembleRetriever
+        from langchain_community.vectorstores import Chroma
+        from langchain.retrievers import EnsembleRetriever
+        from langchain_community.retrievers import BM25Retriever
         from langchain.schema import Document
         from sentence_transformers import SentenceTransformer
-        from langchain.embeddings import SentenceTransformerEmbeddings
+        from langchain_community.embeddings import SentenceTransformerEmbeddings
         
         # Assuming 'chunks' is your list of Langchain Document objects
         # and 'embedding_model' is your SentenceTransformer model
@@ -238,74 +285,76 @@ def answer_question(pdf_id, question, desired_way, chunks):
         relevant_docs = ensemble_retriever.get_relevant_documents(question)
         
         print("Retrieved relevant documents (hybrid search):")
-        for doc in relevant_docs:
-            print(doc.page_content)
+        # for doc in relevant_docs:
+        #     print(doc.page_content)
         
         # You would then pass 'relevant_docs' to your LLM for answer generation
-    return relevant_docs
+        return relevant_docs
+    
+    elif not hybrid_search:
 
-    reranking = True
-    if reranking is True:
-        if results and results['documents']:
-            retrieved_documents = results['documents'][0]
+        if results and results["documents"]:
+            context = "\n\n".join(results["documents"][0])
+            # Call your LLM here with the question and context
+            gr = Generate_LLM_Reponse()
 
-            # Rerank the retrieved documents
-            top_ranked_context = rerank_documents(question, retrieved_documents, reranker_model, top_n=2)
-
-            print("Top Ranked Context Chunks:")
-            for chunk in top_ranked_context:
-                print(chunk[:100] + "...")
-
-    if results and results["documents"]:
-        context = "\n\n".join(results["documents"][0])
-        # Call your LLM here with the question and context
-        gr = Generate_LLM_Reponse()
-
-        if desired_way == 'pipeline':
-            answer = gr.generate_llm_answer_hf_pipeline(question, context)
-        elif desired_way == 'huggingface-hub':
-            answer = gr.generate_llm_answer_hf_hub(question, context)
-        elif desired_way == 'local_download':
-            answer = gr.generate_llm_answer_local_download(question, context)
+            if desired_way == 'pipeline':
+                answer = gr.generate_llm_answer_hf_pipeline(question, context)
+            elif desired_way == 'huggingface-hub':
+                answer = gr.generate_llm_answer_hf_hub(question, context)
+            elif desired_way == 'local_download':
+                answer = gr.generate_llm_answer_local_download(question, context)
+            else:
+                raise ValueError(f"Invalid desired_way: {desired_way}. Choose from 'pipeline', 'huggingface-hub', or 'local_download'.")
+            return answer
         else:
-            raise ValueError(f"Invalid desired_way: {desired_way}. Choose from 'pipeline', 'huggingface-hub', or 'local_download'.")
-        return answer
-    else:
-        return "No relevant information found in the PDF."
+            return "No relevant information found in the PDF."
 
 # --- Workflow ---
 
 def process_pdf_and_answer(pdf_path, question,desired_way):
     pdf_id = generate_pdf_id(pdf_path)
 
-    # if not check_if_pdf_exists(pdf_id):
-    #     print(f"PDF '{pdf_id}' already exists in ChromaDB. Proceeding to question answering.")
-    #     answer = answer_question(pdf_id, question, desired_way)
-        # print(f"\nAnswer: {answer}")
-    # else:
-    print(f"PDF '{pdf_id}' is being uploaded for the first time.")
-    import time
-    tic = time.time()
-    chunks = load_and_embed_pdf(pdf_path, pdf_id)
-    toc = time.time()    
-    print(f"time: {toc-tic}")
+    pdf_exists = check_if_pdf_exists(pdf_id) # True if the PDF is already in the database
 
-    answer = answer_question(pdf_id, question, desired_way, chunks)
+    if pdf_exists:
+        print(f"PDF '{pdf_id}' already exists in ChromaDB. Proceeding to question answering.")
+        answer = answer_question(pdf_id, question, desired_way)
+        # print(f"\nAnswer: {answer}")
+    else:
+        print(f"PDF '{pdf_id}' is being uploaded for the first time.")
+        import time
+        tic = time.time()
+        chunks = load_and_embed_pdf(pdf_path, pdf_id)
+        toc = time.time()    
+        print(f"time: {toc-tic}")
+
+        answer = answer_question(pdf_id, question, desired_way, chunks)
         # print(f"\nAnswer: {answer}")
 
     return answer
 
 if __name__ == "__main__":
 
+
     llm_call_ways = ['huggingface-hub','pipeline','local_download']
+    desired_way = 'pipeline'
+    # desired_way = 'huggingface-hub'
 
     # Example Usage:
-    pdf_file1 = "pdf_data/FRS-04 1.Testing.pdf"
-    pdf_file2 = "pdf_data/FRS-04 1.Testing.pdf"
+    pdf_file1 = "pdf_data/ich-gcp-r2-step-5.pdf"
+    pdf_file2 = "pdf_data/ich-gcp-r3-step-5.pdf"
     # question1_pdf1 = "What is the main topic?"
-    question1_pdf1 = "Provide the summary of the provided text in a concise form"
-    question1_pdf1 = "Antiretroviral drugs act on how many intraviral enzymes?"
-    question1_pdf1 = "According to their mechanism of action what are the different anti-HIV drugs? List all of them.  Think about your answer. Provide your reasoning as well."
+    question1_pdf1 = "How is quality control defined in the text?"
+    question1_pdf1 = "What is good clinical practicse as defined in the text?"
+    question1_pdf1 = "What is adverse drug reaction as defined in the text?"
+    question1_pdf1 = "What is audit certificate as defined in the text?"
+    question1_pdf1 = "What is audit report as defined in the text?"
+    question1_pdf1 = "What is confidentiality as defined in the text?"
+    # question1_pdf1 = "What is Coordinating committee as defined in the text?"
+    
+    # question1_pdf1 = "Antiretroviral drugs act on how many intraviral enzymes?"
+    # question1_pdf1 = "According to their mechanism of action what are the different anti-HIV drugs? List all of them.  Think about your answer. Provide your reasoning as well."
     # question1_pdf1 = "List the different types of anti-HIV drugs mentioned in the text. Think about your answer. Provide your reasoning as well."
     # question1_pdf1 = "According to the text, what are the different anti-HIV drugs based on their mechanism of action?"
     # question1_pdf1 = "How many anti-HIV drug classes are mentioned in the text, and what are they?"
@@ -316,7 +365,7 @@ if __name__ == "__main__":
     # question2_pdf2 = "Who are the key people mentioned?"
     # question3_pdf1 = "Answer another question about the first PDF."
     # question1_pdf1 =  "What is the clinical approval number mentioned in the text?"
-    question1_pdf1 =  "Who is the project leader?"
+    # question1_pdf1 =  "Who is the project leader?"
     # question1_pdf1 =  "Find all the Project leaders in the given text. One of the is Zhang Ting, find others."
 
     # First time processing PDF 1
